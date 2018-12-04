@@ -1,0 +1,2027 @@
+<<<<<<< HEAD
+2018-11-16T02:32:15.014Z - info: Environment variables loaded.
+2018-11-16T02:32:15.038Z - debug: START routing
+2018-11-16T02:32:15.080Z - debug: END routing
+2018-11-16T02:32:15.080Z - info: Loaded routing.
+2018-11-16T02:32:15.119Z - info: START seeder.
+2018-11-16T02:32:15.124Z - debug: 4 orders seeded
+2018-11-16T02:32:15.128Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:32:43.387Z - debug: GET /
+2018-11-16T02:32:43.398Z - debug: Request to /
+2018-11-16T02:32:43.463Z - debug: GET /Style.css
+2018-11-16T02:32:46.871Z - debug: GET /products
+2018-11-16T02:32:46.933Z - debug: GET /Style.css
+2018-11-16T02:32:49.392Z - debug: GET /
+2018-11-16T02:32:49.394Z - debug: Request to /
+2018-11-16T02:32:49.467Z - debug: GET /Style.css
+2018-11-16T02:32:51.182Z - debug: GET /customer
+2018-11-16T02:32:51.236Z - debug: GET /Style.css
+2018-11-16T02:32:52.333Z - debug: GET /order
+2018-11-16T02:32:52.395Z - debug: GET /Style.css
+2018-11-16T02:32:53.424Z - debug: GET /orderLineItem
+2018-11-16T02:32:53.491Z - debug: GET /Style.css
+2018-11-16T02:34:09.768Z - debug: GET /order
+2018-11-16T02:34:09.805Z - debug: GET /Style.css
+2018-11-16T02:34:12.164Z - debug: GET /products
+2018-11-16T02:34:12.182Z - debug: GET /Style.css
+2018-11-16T02:37:25.011Z - info: Environment variables loaded.
+2018-11-16T02:37:25.027Z - debug: START routing
+2018-11-16T02:37:25.050Z - debug: END routing
+2018-11-16T02:37:25.050Z - info: Loaded routing.
+2018-11-16T02:37:25.079Z - info: START seeder.
+2018-11-16T02:37:25.083Z - debug: 4 orders seeded
+2018-11-16T02:37:25.083Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:37:35.062Z - debug: GET /
+2018-11-16T02:37:35.074Z - debug: Request to /
+2018-11-16T02:38:02.641Z - info: Environment variables loaded.
+2018-11-16T02:38:02.653Z - debug: START routing
+2018-11-16T02:38:02.678Z - debug: END routing
+2018-11-16T02:38:02.678Z - info: Loaded routing.
+2018-11-16T02:38:02.713Z - info: START seeder.
+2018-11-16T02:38:02.716Z - debug: 4 orders seeded
+2018-11-16T02:38:02.716Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:38:05.808Z - debug: GET /
+2018-11-16T02:38:05.814Z - debug: Request to /
+2018-11-16T02:38:07.185Z - debug: GET /
+2018-11-16T02:38:07.189Z - debug: Request to /
+2018-11-16T02:38:15.568Z - debug: GET /
+2018-11-16T02:38:15.570Z - debug: Request to /
+2018-11-16T02:38:35.043Z - info: Environment variables loaded.
+2018-11-16T02:38:35.054Z - debug: START routing
+2018-11-16T02:38:35.078Z - debug: END routing
+2018-11-16T02:38:35.078Z - info: Loaded routing.
+2018-11-16T02:38:35.106Z - info: START seeder.
+2018-11-16T02:38:35.110Z - debug: 4 orders seeded
+2018-11-16T02:38:35.110Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:38:45.247Z - debug: GET /
+2018-11-16T02:38:45.257Z - debug: Request to /
+2018-11-16T02:39:57.579Z - info: Environment variables loaded.
+2018-11-16T02:39:57.592Z - debug: START routing
+2018-11-16T02:39:57.620Z - debug: END routing
+2018-11-16T02:39:57.620Z - info: Loaded routing.
+2018-11-16T02:39:57.671Z - info: START seeder.
+2018-11-16T02:39:57.675Z - debug: 4 orders seeded
+2018-11-16T02:39:57.675Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:40:10.269Z - debug: GET /
+2018-11-16T02:40:10.276Z - debug: Request to /
+2018-11-16T02:43:08.838Z - info: Environment variables loaded.
+2018-11-16T02:43:08.849Z - debug: START routing
+2018-11-16T02:43:08.872Z - debug: END routing
+2018-11-16T02:43:08.872Z - info: Loaded routing.
+2018-11-16T02:43:08.901Z - info: START seeder.
+2018-11-16T02:43:08.905Z - debug: 4 orders seeded
+2018-11-16T02:43:08.905Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:43:16.422Z - debug: GET /
+2018-11-16T02:43:16.431Z - debug: Request to /
+2018-11-16T02:43:22.374Z - debug: GET /order
+2018-11-16T02:43:23.528Z - debug: GET /order
+2018-11-16T02:43:24.614Z - debug: GET /product
+2018-11-16T02:43:25.612Z - debug: GET /product
+2018-11-16T02:43:26.030Z - debug: GET /product
+2018-11-16T02:43:26.426Z - debug: GET /product
+2018-11-16T02:45:31.779Z - info: Environment variables loaded.
+2018-11-16T02:45:31.791Z - debug: START routing
+2018-11-16T02:45:31.817Z - debug: END routing
+2018-11-16T02:45:31.817Z - info: Loaded routing.
+2018-11-16T02:45:31.855Z - info: START seeder.
+2018-11-16T02:45:31.861Z - debug: 4 orders seeded
+2018-11-16T02:45:31.861Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:45:39.235Z - debug: GET /
+2018-11-16T02:45:39.242Z - debug: Request to /
+2018-11-16T02:45:44.850Z - debug: GET /product
+2018-11-16T02:45:46.380Z - debug: GET /order
+2018-11-16T02:47:04.767Z - info: Environment variables loaded.
+2018-11-16T02:47:04.779Z - debug: START routing
+2018-11-16T02:47:04.806Z - debug: END routing
+2018-11-16T02:47:04.806Z - info: Loaded routing.
+2018-11-16T02:47:04.834Z - info: START seeder.
+2018-11-16T02:47:04.839Z - debug: 4 orders seeded
+2018-11-16T02:47:04.839Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:47:38.262Z - debug: GET /
+2018-11-16T02:47:38.268Z - debug: Request to /
+2018-11-16T02:47:42.574Z - debug: GET /
+2018-11-16T02:47:42.576Z - debug: Request to /
+2018-11-16T02:50:17.906Z - info: Environment variables loaded.
+2018-11-16T02:50:17.916Z - debug: START routing
+2018-11-16T02:50:17.937Z - debug: END routing
+2018-11-16T02:50:17.937Z - info: Loaded routing.
+2018-11-16T02:50:17.980Z - info: START seeder.
+2018-11-16T02:50:17.986Z - debug: 4 orders seeded
+2018-11-16T02:50:17.986Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:50:28.085Z - debug: GET /
+2018-11-16T02:50:28.091Z - debug: Request to /
+2018-11-16T02:50:29.138Z - debug: GET /css/main.css
+2018-11-16T02:50:29.406Z - debug: GET /images/favicon-32x32.png
+2018-11-16T02:50:29.409Z - debug: GET /images/manifest.json
+2018-11-16T02:50:29.431Z - debug: GET /images/favicon-16x16.png
+2018-11-16T02:50:29.438Z - debug: GET /images/favicon-96x96.png
+2018-11-16T02:50:29.446Z - debug: GET /images/android-icon-192x192.png
+2018-11-16T02:50:33.032Z - debug: GET /product
+2018-11-16T02:50:36.236Z - debug: GET /order
+2018-11-16T02:51:18.543Z - info: Environment variables loaded.
+2018-11-16T02:51:18.554Z - debug: START routing
+2018-11-16T02:51:18.576Z - debug: END routing
+2018-11-16T02:51:18.576Z - info: Loaded routing.
+2018-11-16T02:51:18.604Z - info: START seeder.
+2018-11-16T02:51:18.608Z - debug: 4 orders seeded
+2018-11-16T02:51:18.608Z - info: END Seeder. Sample data read and verified.
+2018-11-16T02:51:28.804Z - debug: GET /
+2018-11-16T02:51:28.817Z - debug: Request to /
+2018-11-16T02:51:32.247Z - debug: GET /product
+2018-11-16T02:57:11.191Z - debug: GET /customer
+2018-11-16T02:57:14.444Z - debug: GET /orderline
+2018-11-16T02:57:17.581Z - debug: GET /product
+2018-11-16T03:00:26.237Z - debug: GET /product
+2018-11-16T03:01:50.535Z - debug: GET /product
+2018-11-16T03:03:32.545Z - info: Environment variables loaded.
+2018-11-16T03:03:32.648Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Thu Nov 15 2018 21:03:32 GMT-0600 (Central Standard Time), pid=14392, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=71528448, heapTotal=62304256, heapUsed=40071744, external=19813960, loadavg=[0, 0, 0], uptime=346160.0002887
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\44-563\6-06\6-06\6-06\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:77:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-16T03:03:32.562Z - debug: START routing
+2018-11-16T03:03:32.596Z - debug: END routing
+2018-11-16T03:03:32.597Z - info: Loaded routing.
+2018-11-16T03:03:32.622Z - info: START seeder.
+2018-11-16T03:03:32.627Z - debug: 4 orders seeded
+2018-11-16T03:03:32.627Z - info: END Seeder. Sample data read and verified.
+2018-11-16T03:03:58.191Z - info: Environment variables loaded.
+2018-11-16T03:03:58.296Z - error: uncaughtException: listen EADDRINUSE :::8089 date=Thu Nov 15 2018 21:03:58 GMT-0600 (Central Standard Time), pid=22268, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=71790592, heapTotal=61779968, heapUsed=40677800, external=19932362, loadavg=[0, 0, 0], uptime=346185.6462536
+Error: listen EADDRINUSE :::8089
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at Function.listen (C:\44-563\6-06\6-06\6-06\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:77:5)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-16T03:03:58.202Z - debug: START routing
+2018-11-16T03:03:58.228Z - debug: END routing
+2018-11-16T03:03:58.228Z - info: Loaded routing.
+2018-11-16T03:03:58.264Z - info: START seeder.
+2018-11-16T03:03:58.267Z - debug: 4 orders seeded
+2018-11-16T03:03:58.267Z - info: END Seeder. Sample data read and verified.
+2018-11-16T03:04:55.429Z - info: Environment variables loaded.
+2018-11-16T03:04:55.438Z - debug: START routing
+2018-11-16T03:04:55.460Z - debug: END routing
+2018-11-16T03:04:55.460Z - info: Loaded routing.
+2018-11-16T03:04:55.488Z - info: START seeder.
+2018-11-16T03:04:55.491Z - debug: 4 orders seeded
+2018-11-16T03:04:55.491Z - info: END Seeder. Sample data read and verified.
+2018-11-16T03:05:08.535Z - debug: GET /
+2018-11-16T03:05:08.542Z - debug: Request to /
+2018-11-16T03:05:11.213Z - debug: GET /product
+2018-11-16T03:08:57.598Z - info: Environment variables loaded.
+2018-11-16T03:08:57.608Z - debug: START routing
+2018-11-16T03:08:57.632Z - debug: END routing
+2018-11-16T03:08:57.632Z - info: Loaded routing.
+2018-11-16T03:08:57.667Z - info: START seeder.
+2018-11-16T03:08:57.671Z - debug: 4 orders seeded
+2018-11-16T03:08:57.671Z - info: END Seeder. Sample data read and verified.
+2018-11-16T03:09:07.784Z - debug: GET /
+2018-11-16T03:09:07.790Z - debug: Request to /
+2018-11-16T03:09:10.518Z - debug: GET /product
+2018-11-16T03:10:12.286Z - info: Environment variables loaded.
+2018-11-16T03:10:12.296Z - debug: START routing
+2018-11-16T03:10:12.321Z - debug: END routing
+2018-11-16T03:10:12.322Z - info: Loaded routing.
+2018-11-16T03:10:12.355Z - info: START seeder.
+2018-11-16T03:10:12.359Z - debug: 4 orders seeded
+2018-11-16T03:10:12.359Z - info: END Seeder. Sample data read and verified.
+2018-11-16T03:10:26.883Z - debug: GET /
+2018-11-16T03:10:26.892Z - debug: Request to /
+2018-11-16T03:10:29.737Z - debug: GET /product
+2018-11-16T03:13:59.040Z - info: Environment variables loaded.
+2018-11-16T03:13:59.049Z - debug: START routing
+2018-11-16T03:13:59.071Z - debug: END routing
+2018-11-16T03:13:59.071Z - info: Loaded routing.
+2018-11-16T03:13:59.101Z - info: START seeder.
+2018-11-16T03:13:59.104Z - debug: 4 orders seeded
+2018-11-16T03:13:59.104Z - info: END Seeder. Sample data read and verified.
+2018-11-16T03:14:12.198Z - debug: GET /
+2018-11-16T03:14:12.205Z - debug: Request to /
+2018-11-16T03:14:14.557Z - debug: GET /product
+2018-11-16T05:31:30.256Z - info: Environment variables loaded.
+2018-11-16T05:31:30.275Z - debug: START routing
+2018-11-16T05:31:30.298Z - debug: END routing
+2018-11-16T05:31:30.298Z - info: Loaded routing.
+2018-11-16T05:31:30.330Z - info: START seeder.
+2018-11-16T05:31:30.335Z - debug: 4 orders seeded
+2018-11-16T05:31:30.335Z - info: END Seeder. Sample data read and verified.
+2018-11-16T05:31:40.654Z - debug: GET /
+2018-11-16T05:31:40.661Z - debug: Request to /
+2018-11-16T05:31:47.384Z - debug: GET /product
+2018-11-16T14:07:21.587Z - info: Environment variables loaded.
+2018-11-16T14:07:21.613Z - debug: START routing
+2018-11-16T14:07:21.669Z - debug: END routing
+2018-11-16T14:07:21.669Z - info: Loaded routing.
+2018-11-16T14:07:21.747Z - info: START seeder.
+2018-11-16T14:07:21.754Z - debug: 4 orders seeded
+2018-11-16T14:07:21.754Z - info: END Seeder. Sample data read and verified.
+2018-11-16T14:07:32.502Z - debug: GET /
+2018-11-16T14:07:32.511Z - debug: Request to /
+2018-11-16T14:07:37.628Z - debug: GET /product
+2018-11-16T14:08:08.413Z - debug: GET /order
+2018-11-16T14:08:13.378Z - debug: GET /customer
+2018-11-16T14:08:18.497Z - debug: GET /orderline
+2018-11-16T14:08:54.068Z - debug: GET /product
+2018-11-19T18:27:31.829Z - info: Environment variables loaded.
+2018-11-19T18:27:31.852Z - debug: START routing
+2018-11-19T18:27:31.879Z - debug: END routing
+2018-11-19T18:27:31.879Z - info: Loaded routing.
+2018-11-19T18:27:31.929Z - info: START seeder.
+2018-11-19T18:27:31.932Z - debug: 4 orders seeded
+2018-11-19T18:27:31.932Z - info: END Seeder. Sample data read and verified.
+2018-11-19T18:27:59.846Z - debug: GET /
+2018-11-19T18:27:59.853Z - debug: Request to /
+2018-11-19T18:28:01.207Z - debug: GET /css/main.css
+2018-11-19T18:28:01.333Z - debug: GET /images/manifest.json
+2018-11-19T18:28:04.103Z - debug: GET /product
+2018-11-19T18:28:08.408Z - debug: GET /order
+2018-11-19T18:28:12.295Z - debug: GET /customer
+2018-11-19T18:28:16.434Z - debug: GET /orderline
+2018-11-19T18:29:50.106Z - debug: GET /
+2018-11-19T18:29:50.110Z - debug: Request to /
+2018-11-19T18:29:50.203Z - debug: GET /images/favicon-32x32.png
+2018-11-19T18:29:50.214Z - debug: GET /images/favicon-16x16.png
+2018-11-19T18:29:50.221Z - debug: GET /images/favicon-96x96.png
+2018-11-19T18:29:50.230Z - debug: GET /images/android-icon-192x192.png
+2018-11-19T18:29:51.106Z - debug: GET /
+2018-11-19T18:29:51.109Z - debug: Request to /
+2018-11-19T18:29:51.191Z - debug: GET /images/favicon-32x32.png
+2018-11-19T18:30:15.507Z - info: Environment variables loaded.
+2018-11-19T18:30:15.516Z - debug: START routing
+2018-11-19T18:30:15.537Z - debug: END routing
+2018-11-19T18:30:15.537Z - info: Loaded routing.
+2018-11-19T18:30:15.566Z - info: START seeder.
+2018-11-19T18:30:15.569Z - debug: 4 orders seeded
+2018-11-19T18:30:15.569Z - info: END Seeder. Sample data read and verified.
+2018-11-19T18:31:07.324Z - debug: GET /
+2018-11-19T18:31:07.329Z - debug: Request to /
+2018-11-19T18:31:12.033Z - debug: GET /product
+2018-11-19T18:35:44.163Z - info: Environment variables loaded.
+2018-11-19T18:35:44.189Z - error: uncaughtException: Cannot find module './routes/index.ejs' date=Mon Nov 19 2018 12:35:44 GMT-0600 (Central Standard Time), pid=18688, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=68231168, heapTotal=61779968, heapUsed=37171344, external=19472109, loadavg=[0, 0, 0], uptime=257015.6605258
+Error: Cannot find module './routes/index.ejs'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:67:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-19T18:39:48.083Z - info: Environment variables loaded.
+2018-11-19T18:39:48.092Z - debug: START routing
+2018-11-19T18:39:48.116Z - debug: END routing
+2018-11-19T18:39:48.116Z - info: Loaded routing.
+2018-11-19T18:39:48.146Z - info: START seeder.
+2018-11-19T18:39:48.151Z - debug: 4 orders seeded
+2018-11-19T18:39:48.151Z - info: END Seeder. Sample data read and verified.
+2018-11-19T18:39:58.991Z - debug: GET /
+2018-11-19T18:39:59.000Z - debug: Request to /
+2018-11-19T18:40:03.969Z - debug: GET /product
+2018-11-19T18:43:53.833Z - debug: GET /product
+2018-11-19T18:43:57.358Z - debug: GET /order
+2018-11-19T18:44:00.962Z - debug: GET /customer
+2018-11-19T18:44:27.672Z - debug: GET /product
+2018-11-19T18:44:31.232Z - debug: GET /order
+2018-11-19T18:44:39.525Z - debug: GET /customer
+2018-11-19T18:44:43.021Z - debug: GET /orderline
+2018-11-19T18:45:06.684Z - debug: GET /product
+2018-11-19T18:57:46.282Z - info: Environment variables loaded.
+2018-11-19T18:57:46.291Z - debug: START routing
+2018-11-19T18:57:46.316Z - debug: END routing
+2018-11-19T18:57:46.316Z - info: Loaded routing.
+2018-11-19T18:57:46.354Z - info: START seeder.
+2018-11-19T18:57:46.358Z - debug: 4 orders seeded
+2018-11-19T18:57:46.358Z - info: END Seeder. Sample data read and verified.
+2018-11-19T18:58:07.144Z - debug: GET /
+2018-11-19T18:58:07.158Z - debug: Request to /
+2018-11-19T18:58:10.718Z - debug: GET /product
+2018-11-19T19:01:44.725Z - debug: GET /product
+2018-11-20T03:37:29.221Z - info: Environment variables loaded.
+2018-11-20T03:37:29.253Z - debug: START routing
+2018-11-20T03:37:29.291Z - debug: END routing
+2018-11-20T03:37:29.291Z - info: Loaded routing.
+2018-11-20T03:37:29.334Z - info: START seeder.
+2018-11-20T03:37:29.338Z - debug: 4 orders seeded
+2018-11-20T03:37:29.338Z - info: END Seeder. Sample data read and verified.
+2018-11-20T03:37:40.629Z - debug: GET /
+2018-11-20T03:37:40.645Z - debug: Request to /
+2018-11-20T03:37:44.822Z - debug: GET /product
+2018-11-20T03:38:56.019Z - debug: GET /product
+2018-11-20T03:44:56.518Z - info: Environment variables loaded.
+2018-11-20T03:44:56.576Z - error: uncaughtException: Cannot find module '../controllers/customer.js' date=Mon Nov 19 2018 21:44:56 GMT-0600 (Central Standard Time), pid=21620, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=70242304, heapTotal=61779968, heapUsed=39229360, external=19732475, loadavg=[0, 0, 0], uptime=289968.0294049
+Error: Cannot find module '../controllers/customer.js'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\routes\index.js:29:25)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:67:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T03:44:56.529Z - debug: START routing
+2018-11-20T03:45:42.041Z - info: Environment variables loaded.
+2018-11-20T03:45:42.051Z - debug: START routing
+2018-11-20T03:45:42.080Z - debug: END routing
+2018-11-20T03:45:42.080Z - info: Loaded routing.
+2018-11-20T03:45:42.111Z - info: START seeder.
+2018-11-20T03:45:42.117Z - debug: 4 orders seeded
+2018-11-20T03:45:42.118Z - info: END Seeder. Sample data read and verified.
+2018-11-20T03:45:51.852Z - debug: GET /
+2018-11-20T03:45:54.926Z - debug: GET /product
+2018-11-20T03:55:15.817Z - info: Environment variables loaded.
+2018-11-20T03:55:15.827Z - debug: START routing
+2018-11-20T03:55:15.854Z - debug: END routing
+2018-11-20T03:55:15.854Z - info: Loaded routing.
+2018-11-20T03:55:15.893Z - info: START seeder.
+2018-11-20T03:55:15.897Z - debug: 4 orders seeded
+2018-11-20T03:55:15.897Z - info: END Seeder. Sample data read and verified.
+2018-11-20T03:55:25.928Z - debug: GET /
+2018-11-20T03:55:30.047Z - debug: GET /product
+2018-11-20T04:02:54.873Z - info: Environment variables loaded.
+2018-11-20T04:02:54.885Z - debug: START routing
+2018-11-20T04:02:54.918Z - debug: END routing
+2018-11-20T04:02:54.918Z - info: Loaded routing.
+2018-11-20T04:02:54.958Z - info: START seeder.
+2018-11-20T04:02:54.962Z - debug: 4 orders seeded
+2018-11-20T04:02:54.962Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:03:03.094Z - debug: GET /product
+2018-11-20T04:03:05.371Z - debug: GET /product
+2018-11-20T04:03:09.226Z - debug: GET /
+2018-11-20T04:03:12.831Z - debug: GET /product
+2018-11-20T04:03:27.748Z - info: Environment variables loaded.
+2018-11-20T04:03:27.758Z - debug: START routing
+2018-11-20T04:03:27.785Z - debug: END routing
+2018-11-20T04:03:27.785Z - info: Loaded routing.
+2018-11-20T04:03:27.821Z - info: START seeder.
+2018-11-20T04:03:27.828Z - debug: 4 orders seeded
+2018-11-20T04:03:27.828Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:03:37.085Z - debug: GET /
+2018-11-20T04:03:40.167Z - debug: GET /product
+2018-11-20T04:16:20.476Z - info: Environment variables loaded.
+2018-11-20T04:16:20.486Z - debug: START routing
+2018-11-20T04:16:20.510Z - debug: END routing
+2018-11-20T04:16:20.510Z - info: Loaded routing.
+2018-11-20T04:16:20.539Z - info: START seeder.
+2018-11-20T04:16:20.544Z - debug: 4 orders seeded
+2018-11-20T04:16:20.544Z - info: END Seeder. Sample data read and verified.
+2018-11-20T04:16:34.020Z - debug: GET /
+2018-11-20T04:16:36.874Z - debug: GET /product
+2018-11-20T17:44:13.215Z - info: Environment variables loaded.
+2018-11-20T17:44:13.243Z - debug: START routing
+2018-11-20T17:44:13.298Z - debug: END routing
+2018-11-20T17:44:13.298Z - info: Loaded routing.
+2018-11-20T17:44:13.349Z - info: START seeder.
+2018-11-20T17:44:13.354Z - debug: 4 orders seeded
+2018-11-20T17:44:13.355Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:44:31.257Z - debug: GET /
+2018-11-20T17:44:44.287Z - debug: GET /product
+2018-11-20T17:45:56.136Z - debug: GET /product
+2018-11-20T17:47:43.280Z - debug: GET /product
+2018-11-20T17:47:44.896Z - debug: GET /product
+2018-11-20T17:47:45.314Z - debug: GET /product
+2018-11-20T17:47:45.535Z - debug: GET /product
+2018-11-20T17:47:51.776Z - info: Environment variables loaded.
+2018-11-20T17:47:51.787Z - debug: START routing
+2018-11-20T17:47:51.819Z - debug: END routing
+2018-11-20T17:47:51.819Z - info: Loaded routing.
+2018-11-20T17:47:51.850Z - info: START seeder.
+2018-11-20T17:47:51.851Z - debug: 4 orders seeded
+2018-11-20T17:47:51.851Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:47:54.890Z - debug: GET /product
+2018-11-20T17:47:56.015Z - debug: GET /product
+2018-11-20T17:47:56.116Z - debug: GET /product
+2018-11-20T17:47:58.394Z - debug: GET /
+2018-11-20T17:47:59.826Z - debug: GET /product
+2018-11-20T17:49:23.278Z - info: Environment variables loaded.
+2018-11-20T17:49:23.298Z - debug: START routing
+2018-11-20T17:49:23.350Z - debug: END routing
+2018-11-20T17:49:23.350Z - info: Loaded routing.
+2018-11-20T17:49:23.407Z - info: START seeder.
+2018-11-20T17:49:23.414Z - debug: 4 orders seeded
+2018-11-20T17:49:23.414Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:49:32.218Z - debug: GET /product/findall
+2018-11-20T17:50:06.090Z - info: Environment variables loaded.
+2018-11-20T17:50:06.106Z - debug: START routing
+2018-11-20T17:50:06.188Z - debug: END routing
+2018-11-20T17:50:06.188Z - info: Loaded routing.
+2018-11-20T17:50:06.250Z - info: START seeder.
+2018-11-20T17:50:06.254Z - debug: 4 orders seeded
+2018-11-20T17:50:06.254Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:50:10.117Z - info: Environment variables loaded.
+2018-11-20T17:50:10.140Z - debug: START routing
+2018-11-20T17:50:10.212Z - debug: END routing
+2018-11-20T17:50:10.212Z - info: Loaded routing.
+2018-11-20T17:50:10.326Z - info: START seeder.
+2018-11-20T17:50:10.336Z - debug: 4 orders seeded
+2018-11-20T17:50:10.336Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:50:51.931Z - info: Environment variables loaded.
+2018-11-20T17:50:51.950Z - debug: START routing
+2018-11-20T17:50:52.002Z - debug: END routing
+2018-11-20T17:50:52.003Z - info: Loaded routing.
+2018-11-20T17:50:52.053Z - info: START seeder.
+2018-11-20T17:50:52.056Z - debug: 4 orders seeded
+2018-11-20T17:50:52.056Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:55:09.348Z - info: Environment variables loaded.
+2018-11-20T17:55:09.363Z - debug: START routing
+2018-11-20T17:55:09.424Z - debug: END routing
+2018-11-20T17:55:09.424Z - info: Loaded routing.
+2018-11-20T17:55:09.484Z - info: START seeder.
+2018-11-20T17:55:09.485Z - debug: 4 orders seeded
+2018-11-20T17:55:09.485Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:55:44.572Z - info: Environment variables loaded.
+2018-11-20T17:55:44.594Z - debug: START routing
+2018-11-20T17:55:44.651Z - debug: END routing
+2018-11-20T17:55:44.651Z - info: Loaded routing.
+2018-11-20T17:55:44.743Z - info: START seeder.
+2018-11-20T17:55:44.750Z - debug: 4 orders seeded
+2018-11-20T17:55:44.751Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:55:48.759Z - debug: GET /product/findall
+2018-11-20T17:55:52.665Z - debug: GET /product/
+2018-11-20T17:55:55.810Z - debug: GET /
+2018-11-20T17:55:57.513Z - debug: GET /product
+2018-11-20T17:56:48.151Z - info: Environment variables loaded.
+2018-11-20T17:56:48.165Z - debug: START routing
+2018-11-20T17:56:48.224Z - debug: END routing
+2018-11-20T17:56:48.224Z - info: Loaded routing.
+2018-11-20T17:56:48.274Z - info: START seeder.
+2018-11-20T17:56:48.281Z - debug: 4 orders seeded
+2018-11-20T17:56:48.281Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:58:04.225Z - info: Environment variables loaded.
+2018-11-20T17:58:04.235Z - debug: START routing
+2018-11-20T17:58:04.259Z - debug: END routing
+2018-11-20T17:58:04.260Z - info: Loaded routing.
+2018-11-20T17:58:04.290Z - info: START seeder.
+2018-11-20T17:58:04.292Z - debug: 4 orders seeded
+2018-11-20T17:58:04.292Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:58:10.247Z - debug: GET /product
+2018-11-20T17:58:14.304Z - debug: GET /
+2018-11-20T17:58:15.885Z - debug: GET /product
+2018-11-20T17:59:30.309Z - info: Environment variables loaded.
+2018-11-20T17:59:30.321Z - debug: START routing
+2018-11-20T17:59:30.348Z - debug: END routing
+2018-11-20T17:59:30.348Z - info: Loaded routing.
+2018-11-20T17:59:30.387Z - info: START seeder.
+2018-11-20T17:59:30.387Z - debug: 4 orders seeded
+2018-11-20T17:59:30.387Z - info: END Seeder. Sample data read and verified.
+2018-11-20T17:59:34.167Z - debug: GET /product
+2018-11-20T18:01:49.747Z - debug: GET /product
+2018-11-20T18:01:50.665Z - debug: GET /product
+2018-11-20T18:01:50.847Z - debug: GET /product
+2018-11-20T18:01:50.989Z - debug: GET /product
+2018-11-20T18:01:51.153Z - debug: GET /product
+2018-11-20T18:01:51.313Z - debug: GET /product
+2018-11-20T18:01:51.478Z - debug: GET /product
+2018-11-20T18:01:51.703Z - debug: GET /product
+2018-11-20T18:01:54.038Z - debug: GET /
+2018-11-20T18:01:55.756Z - debug: GET /product
+2018-11-20T18:02:27.333Z - debug: GET /product
+2018-11-20T18:02:39.357Z - debug: GET /product
+2018-11-20T18:02:44.375Z - debug: GET /product
+2018-11-20T18:02:49.787Z - debug: GET /product
+2018-11-20T18:05:08.440Z - info: Environment variables loaded.
+2018-11-20T18:05:08.460Z - debug: START routing
+2018-11-20T18:05:08.510Z - debug: END routing
+2018-11-20T18:05:08.510Z - info: Loaded routing.
+2018-11-20T18:05:08.554Z - info: START seeder.
+2018-11-20T18:05:08.555Z - debug: 4 orders seeded
+2018-11-20T18:05:08.555Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:05:21.672Z - debug: GET /product
+2018-11-20T18:05:22.547Z - debug: GET /product
+2018-11-20T18:05:22.761Z - debug: GET /product
+2018-11-20T18:05:22.848Z - debug: GET /product
+2018-11-20T18:05:23.012Z - debug: GET /product
+2018-11-20T18:05:23.103Z - debug: GET /product
+2018-11-20T18:05:23.477Z - debug: GET /product
+2018-11-20T18:05:28.942Z - info: Environment variables loaded.
+2018-11-20T18:05:28.950Z - debug: START routing
+2018-11-20T18:05:28.977Z - debug: END routing
+2018-11-20T18:05:28.979Z - info: Loaded routing.
+2018-11-20T18:05:29.019Z - info: START seeder.
+2018-11-20T18:05:29.020Z - debug: 4 orders seeded
+2018-11-20T18:05:29.020Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:06:12.156Z - info: Environment variables loaded.
+2018-11-20T18:06:12.173Z - debug: START routing
+2018-11-20T18:06:12.237Z - debug: END routing
+2018-11-20T18:06:12.238Z - info: Loaded routing.
+2018-11-20T18:06:12.310Z - info: START seeder.
+2018-11-20T18:06:12.316Z - debug: 4 orders seeded
+2018-11-20T18:06:12.316Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:06:15.007Z - info: Environment variables loaded.
+2018-11-20T18:06:15.023Z - debug: START routing
+2018-11-20T18:06:15.079Z - debug: END routing
+2018-11-20T18:06:15.083Z - info: Loaded routing.
+2018-11-20T18:06:15.133Z - info: START seeder.
+2018-11-20T18:06:15.138Z - debug: 4 orders seeded
+2018-11-20T18:06:15.138Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:06:19.722Z - info: Environment variables loaded.
+2018-11-20T18:06:19.739Z - debug: START routing
+2018-11-20T18:06:19.792Z - debug: END routing
+2018-11-20T18:06:19.792Z - info: Loaded routing.
+2018-11-20T18:06:19.861Z - info: START seeder.
+2018-11-20T18:06:19.866Z - debug: 4 orders seeded
+2018-11-20T18:06:19.866Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:06:24.626Z - debug: GET /product
+2018-11-20T18:06:27.114Z - debug: GET /
+2018-11-20T18:06:28.523Z - debug: GET /product
+2018-11-20T18:08:00.315Z - debug: GET /
+2018-11-20T18:09:27.857Z - debug: GET /
+2018-11-20T18:09:28.003Z - debug: GET /images/favicon-32x32.png
+2018-11-20T18:09:28.933Z - debug: GET /product
+2018-11-20T18:10:09.244Z - info: Environment variables loaded.
+2018-11-20T18:10:09.262Z - debug: START routing
+2018-11-20T18:10:09.324Z - debug: END routing
+2018-11-20T18:10:09.324Z - info: Loaded routing.
+2018-11-20T18:10:09.400Z - info: START seeder.
+2018-11-20T18:10:09.409Z - debug: 4 orders seeded
+2018-11-20T18:10:09.410Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:11:50.186Z - info: Environment variables loaded.
+2018-11-20T18:11:50.211Z - debug: START routing
+2018-11-20T18:11:50.285Z - debug: END routing
+2018-11-20T18:11:50.285Z - info: Loaded routing.
+2018-11-20T18:11:50.355Z - info: START seeder.
+2018-11-20T18:11:50.362Z - debug: 4 orders seeded
+2018-11-20T18:11:50.363Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:11:53.697Z - debug: GET /product
+2018-11-20T18:11:56.089Z - debug: GET /
+2018-11-20T18:11:57.887Z - debug: GET /product
+2018-11-20T18:12:01.895Z - debug: GET /product/findall
+2018-11-20T18:12:07.667Z - debug: GET /product/findone/1
+2018-11-20T18:12:12.004Z - debug: GET /product/create
+2018-11-20T18:12:12.007Z - info: Handling GET /create[object Object]
+2018-11-20T18:12:12.012Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T18:13:02.681Z - debug: GET /product/edit/1
+2018-11-20T18:13:02.683Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T18:13:29.910Z - info: Environment variables loaded.
+2018-11-20T18:13:29.921Z - debug: START routing
+2018-11-20T18:13:29.940Z - debug: END routing
+2018-11-20T18:13:29.952Z - info: Loaded routing.
+2018-11-20T18:13:29.993Z - info: START seeder.
+2018-11-20T18:13:29.994Z - debug: 4 orders seeded
+2018-11-20T18:13:29.994Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:13:36.907Z - debug: GET /product/
+2018-11-20T18:44:39.654Z - info: Environment variables loaded.
+2018-11-20T18:44:39.665Z - debug: START routing
+2018-11-20T18:44:39.684Z - debug: END routing
+2018-11-20T18:44:39.684Z - info: Loaded routing.
+2018-11-20T18:44:39.720Z - info: START seeder.
+2018-11-20T18:44:39.721Z - debug: 4 orders seeded
+2018-11-20T18:44:39.721Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:44:49.320Z - debug: GET /
+2018-11-20T18:44:52.580Z - debug: GET /product
+2018-11-20T18:45:29.272Z - debug: GET /product
+2018-11-20T18:48:02.990Z - info: Environment variables loaded.
+2018-11-20T18:48:03.003Z - debug: START routing
+2018-11-20T18:48:03.043Z - debug: END routing
+2018-11-20T18:48:03.044Z - info: Loaded routing.
+2018-11-20T18:48:03.083Z - info: START seeder.
+2018-11-20T18:48:03.089Z - debug: 4 orders seeded
+2018-11-20T18:48:03.089Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:48:17.574Z - debug: GET /product
+2018-11-20T18:48:22.620Z - debug: GET /
+2018-11-20T18:48:24.099Z - debug: GET /product
+2018-11-20T18:49:40.081Z - info: Environment variables loaded.
+2018-11-20T18:49:40.096Z - debug: START routing
+2018-11-20T18:49:40.149Z - debug: END routing
+2018-11-20T18:49:40.149Z - info: Loaded routing.
+2018-11-20T18:49:40.204Z - info: START seeder.
+2018-11-20T18:49:40.210Z - debug: 4 orders seeded
+2018-11-20T18:49:40.210Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:50:25.483Z - debug: GET /product
+2018-11-20T18:50:42.888Z - debug: GET /product
+2018-11-20T18:50:44.799Z - debug: GET /product
+2018-11-20T18:50:44.973Z - debug: GET /product
+2018-11-20T18:50:45.190Z - debug: GET /product
+2018-11-20T18:58:04.508Z - info: Environment variables loaded.
+2018-11-20T18:58:04.518Z - debug: START routing
+2018-11-20T18:58:04.543Z - debug: END routing
+2018-11-20T18:58:04.545Z - info: Loaded routing.
+2018-11-20T18:58:04.581Z - info: START seeder.
+2018-11-20T18:58:04.584Z - debug: 4 orders seeded
+2018-11-20T18:58:04.588Z - info: END Seeder. Sample data read and verified.
+2018-11-20T18:58:08.042Z - debug: GET /
+2018-11-20T18:58:09.791Z - debug: GET /product
+2018-11-20T19:00:32.719Z - debug: GET /product/create
+2018-11-20T19:00:32.722Z - info: Handling GET /create[object Object]
+2018-11-20T19:00:32.729Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:00:46.514Z - debug: GET /product/create
+2018-11-20T19:00:46.516Z - info: Handling GET /create[object Object]
+2018-11-20T19:00:46.518Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:01:10.521Z - debug: GET /product/findall
+2018-11-20T19:15:50.234Z - debug: GET /product/
+2018-11-20T19:17:14.518Z - info: Environment variables loaded.
+2018-11-20T19:17:14.527Z - debug: START routing
+2018-11-20T19:17:14.545Z - debug: END routing
+2018-11-20T19:17:14.545Z - info: Loaded routing.
+2018-11-20T19:17:14.576Z - info: START seeder.
+2018-11-20T19:17:14.583Z - debug: 4 orders seeded
+2018-11-20T19:17:14.583Z - info: END Seeder. Sample data read and verified.
+2018-11-20T19:17:21.058Z - debug: GET /product/index
+2018-11-20T19:17:24.051Z - debug: GET /product/
+2018-11-20T19:17:27.803Z - debug: GET /product/create
+2018-11-20T19:17:27.804Z - info: Handling GET /create[object Object]
+2018-11-20T19:17:27.811Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:18:56.349Z - debug: GET /product/create
+2018-11-20T19:18:56.351Z - info: Handling GET /create[object Object]
+2018-11-20T19:18:56.353Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:18:58.763Z - debug: GET /product/
+2018-11-20T19:20:39.463Z - info: Environment variables loaded.
+2018-11-20T19:20:39.472Z - debug: START routing
+2018-11-20T19:20:39.496Z - debug: END routing
+2018-11-20T19:20:39.496Z - info: Loaded routing.
+2018-11-20T19:20:39.532Z - info: START seeder.
+2018-11-20T19:20:39.533Z - debug: 4 orders seeded
+2018-11-20T19:20:39.533Z - info: END Seeder. Sample data read and verified.
+2018-11-20T19:20:43.661Z - debug: GET /product/
+2018-11-20T19:20:46.581Z - debug: GET /product/create
+2018-11-20T19:20:46.590Z - info: Handling GET /create[object Object]
+2018-11-20T19:20:46.608Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:21:40.355Z - debug: GET /product/create
+2018-11-20T19:21:40.358Z - info: Handling GET /create[object Object]
+2018-11-20T19:21:40.361Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:21:52.337Z - debug: GET /product/create
+2018-11-20T19:21:52.337Z - info: Handling GET /create[object Object]
+2018-11-20T19:21:52.343Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:11.590Z - debug: GET /product/create
+2018-11-20T19:22:11.593Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:11.594Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:12.875Z - debug: GET /product/create
+2018-11-20T19:22:12.878Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:12.878Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:13.060Z - debug: GET /product/create
+2018-11-20T19:22:13.064Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:13.065Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:13.217Z - debug: GET /product/create
+2018-11-20T19:22:13.219Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:13.220Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:13.434Z - debug: GET /product/create
+2018-11-20T19:22:13.437Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:13.438Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:23.913Z - debug: GET /product/create
+2018-11-20T19:22:23.913Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:23.913Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:24.754Z - debug: GET /product/create
+2018-11-20T19:22:24.757Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:24.758Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:24.915Z - debug: GET /product/create
+2018-11-20T19:22:24.915Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:24.915Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:25.074Z - debug: GET /product/create
+2018-11-20T19:22:25.077Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:25.078Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:25.202Z - debug: GET /product/create
+2018-11-20T19:22:25.203Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:25.203Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:25.353Z - debug: GET /product/create
+2018-11-20T19:22:25.354Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:25.356Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:25.509Z - debug: GET /product/create
+2018-11-20T19:22:25.512Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:25.512Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:25.724Z - debug: GET /product/create
+2018-11-20T19:22:25.726Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:25.728Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:40.329Z - debug: GET /product/create
+2018-11-20T19:22:40.332Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:40.333Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:41.228Z - debug: GET /product/create
+2018-11-20T19:22:41.230Z - info: Handling GET /create[object Object]
+2018-11-20T19:22:41.231Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"status":"Available","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:22:47.348Z - debug: GET /product/edit/1
+2018-11-20T19:22:47.349Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:23:15.616Z - info: Environment variables loaded.
+2018-11-20T19:23:15.630Z - debug: START routing
+2018-11-20T19:23:15.688Z - debug: END routing
+2018-11-20T19:23:15.688Z - info: Loaded routing.
+2018-11-20T19:23:15.747Z - info: START seeder.
+2018-11-20T19:23:15.750Z - debug: 4 orders seeded
+2018-11-20T19:23:15.750Z - info: END Seeder. Sample data read and verified.
+2018-11-20T19:23:19.600Z - debug: GET /product/edit/1
+2018-11-20T19:23:19.607Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:23:20.466Z - debug: GET /product/edit/1
+2018-11-20T19:23:20.468Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:23:20.702Z - debug: GET /product/edit/1
+2018-11-20T19:23:20.702Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:23:20.754Z - debug: GET /product/edit/1
+2018-11-20T19:23:20.755Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:23:20.911Z - debug: GET /product/edit/1
+2018-11-20T19:23:20.914Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:23:21.058Z - debug: GET /product/edit/1
+2018-11-20T19:23:21.060Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:23:21.226Z - debug: GET /product/edit/1
+2018-11-20T19:23:21.228Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:23:21.383Z - debug: GET /product/edit/1
+2018-11-20T19:23:21.384Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:23:27.463Z - info: Environment variables loaded.
+2018-11-20T19:23:27.473Z - debug: START routing
+2018-11-20T19:23:27.500Z - debug: END routing
+2018-11-20T19:23:27.501Z - info: Loaded routing.
+2018-11-20T19:23:27.537Z - info: START seeder.
+2018-11-20T19:23:27.541Z - debug: 4 orders seeded
+2018-11-20T19:23:27.541Z - info: END Seeder. Sample data read and verified.
+2018-11-20T19:23:31.348Z - debug: GET /
+2018-11-20T19:23:33.071Z - debug: GET /product
+2018-11-20T19:23:38.571Z - debug: GET /product/edit/1
+2018-11-20T19:23:38.573Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T19:25:03.533Z - debug: GET /product/details/1
+2018-11-20T19:25:03.536Z - info: Handling GET /details/:id [object Object]
+2018-11-20T19:25:11.893Z - info: Environment variables loaded.
+2018-11-20T19:25:11.912Z - debug: START routing
+2018-11-20T19:25:11.974Z - debug: END routing
+2018-11-20T19:25:11.974Z - info: Loaded routing.
+2018-11-20T19:25:12.023Z - info: START seeder.
+2018-11-20T19:25:12.028Z - debug: 4 orders seeded
+2018-11-20T19:25:12.028Z - info: END Seeder. Sample data read and verified.
+2018-11-20T19:25:12.167Z - debug: GET /product/details/1
+2018-11-20T19:25:12.179Z - info: Handling GET /details/:id [object Object]
+2018-11-20T19:53:43.299Z - info: Environment variables loaded.
+2018-11-20T19:53:43.315Z - debug: START routing
+2018-11-20T19:53:43.342Z - debug: END routing
+2018-11-20T19:53:43.342Z - info: Loaded routing.
+2018-11-20T19:53:43.359Z - info: START seeder.
+2018-11-20T19:53:43.359Z - debug: 4 orders seeded
+2018-11-20T19:53:43.359Z - info: END Seeder. Sample data read and verified.
+2018-11-20T19:54:10.503Z - debug: GET /
+2018-11-20T19:54:12.239Z - debug: GET /product
+2018-11-20T19:54:18.521Z - debug: GET /product/create
+2018-11-20T19:54:18.522Z - info: Handling GET /create[object Object]
+2018-11-20T19:54:18.526Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:54:23.493Z - debug: GET /product/
+2018-11-20T19:55:01.885Z - info: Environment variables loaded.
+2018-11-20T19:55:01.901Z - debug: START routing
+2018-11-20T19:55:01.916Z - debug: END routing
+2018-11-20T19:55:01.916Z - info: Loaded routing.
+2018-11-20T19:55:01.948Z - info: START seeder.
+2018-11-20T19:55:01.948Z - debug: 4 orders seeded
+2018-11-20T19:55:01.948Z - info: END Seeder. Sample data read and verified.
+2018-11-20T19:55:05.100Z - debug: GET /product/
+2018-11-20T19:59:24.301Z - debug: GET /product/
+2018-11-20T19:59:25.335Z - debug: GET /product/
+2018-11-20T19:59:29.770Z - debug: GET /product/create
+2018-11-20T19:59:29.772Z - info: Handling GET /create[object Object]
+2018-11-20T19:59:29.777Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:59:30.996Z - debug: GET /product/create/
+2018-11-20T19:59:30.996Z - info: Handling GET /create[object Object]
+2018-11-20T19:59:30.997Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T19:59:35.391Z - debug: GET /product/
+2018-11-20T19:59:43.509Z - debug: GET /product/edit
+2018-11-20T20:01:06.447Z - debug: GET /
+2018-11-20T20:01:47.953Z - debug: GET /product/create
+2018-11-20T20:01:47.954Z - info: Handling GET /create[object Object]
+2018-11-20T20:01:47.954Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T21:16:51.872Z - info: Environment variables loaded.
+2018-11-20T21:16:51.898Z - debug: START routing
+2018-11-20T21:16:51.950Z - debug: END routing
+2018-11-20T21:16:51.950Z - info: Loaded routing.
+2018-11-20T21:16:52.014Z - info: START seeder.
+2018-11-20T21:16:52.015Z - debug: 4 orders seeded
+2018-11-20T21:16:52.015Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:17:08.227Z - info: Environment variables loaded.
+2018-11-20T21:17:08.244Z - debug: START routing
+2018-11-20T21:17:08.300Z - debug: END routing
+2018-11-20T21:17:08.300Z - info: Loaded routing.
+2018-11-20T21:17:08.358Z - info: START seeder.
+2018-11-20T21:17:08.363Z - debug: 4 orders seeded
+2018-11-20T21:17:08.363Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:17:13.246Z - info: Environment variables loaded.
+2018-11-20T21:17:13.261Z - debug: START routing
+2018-11-20T21:17:13.314Z - debug: END routing
+2018-11-20T21:17:13.314Z - info: Loaded routing.
+2018-11-20T21:17:13.364Z - info: START seeder.
+2018-11-20T21:17:13.369Z - debug: 4 orders seeded
+2018-11-20T21:17:13.369Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:19:04.781Z - info: Environment variables loaded.
+2018-11-20T21:19:04.832Z - error: uncaughtException: Cannot find module '../controllers/customer.js' date=Tue Nov 20 2018 15:19:04 GMT-0600 (Central Standard Time), pid=13068, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=69787648, heapTotal=60731392, heapUsed=38738528, external=19682808, loadavg=[0, 0, 0], uptime=353216.2606113
+Error: Cannot find module '../controllers/customer.js'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\routes\index.js:35:26)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:67:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T21:19:04.797Z - debug: START routing
+2018-11-20T21:20:06.282Z - info: Environment variables loaded.
+2018-11-20T21:20:06.302Z - debug: START routing
+2018-11-20T21:20:06.359Z - debug: END routing
+2018-11-20T21:20:06.359Z - info: Loaded routing.
+2018-11-20T21:20:06.426Z - info: START seeder.
+2018-11-20T21:20:06.431Z - debug: 4 orders seeded
+2018-11-20T21:20:06.431Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:20:26.091Z - info: Environment variables loaded.
+2018-11-20T21:20:26.127Z - error: uncaughtException: Unexpected token } date=Tue Nov 20 2018 15:20:26 GMT-0600 (Central Standard Time), pid=11016, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=71311360, heapTotal=60731392, heapUsed=40065424, external=19846821, loadavg=[0, 0, 0], uptime=353297.568853
+C:\44-563\6-06\6-06\6-06\routes\index.js:44
+});
+^
+
+SyntaxError: Unexpected token }
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:67:16)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T21:20:34.875Z - info: Environment variables loaded.
+2018-11-20T21:20:34.899Z - debug: START routing
+2018-11-20T21:20:34.949Z - debug: END routing
+2018-11-20T21:20:34.949Z - info: Loaded routing.
+2018-11-20T21:20:35.046Z - info: START seeder.
+2018-11-20T21:20:35.054Z - debug: 4 orders seeded
+2018-11-20T21:20:35.054Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:20:42.587Z - info: Environment variables loaded.
+2018-11-20T21:20:42.604Z - debug: START routing
+2018-11-20T21:20:42.649Z - debug: END routing
+2018-11-20T21:20:42.649Z - info: Loaded routing.
+2018-11-20T21:20:42.708Z - info: START seeder.
+2018-11-20T21:20:42.709Z - debug: 4 orders seeded
+2018-11-20T21:20:42.709Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:24:21.094Z - info: Environment variables loaded.
+2018-11-20T21:24:21.107Z - debug: START routing
+2018-11-20T21:24:21.138Z - debug: END routing
+2018-11-20T21:24:21.138Z - info: Loaded routing.
+2018-11-20T21:24:21.171Z - info: START seeder.
+2018-11-20T21:24:21.179Z - debug: 4 orders seeded
+2018-11-20T21:24:21.179Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:24:44.481Z - debug: GET /
+2018-11-20T21:24:57.433Z - debug: GET /product
+2018-11-20T21:28:25.297Z - info: Environment variables loaded.
+2018-11-20T21:28:25.307Z - debug: START routing
+2018-11-20T21:28:25.336Z - debug: END routing
+2018-11-20T21:28:25.336Z - info: Loaded routing.
+2018-11-20T21:28:25.375Z - info: START seeder.
+2018-11-20T21:28:25.379Z - debug: 4 orders seeded
+2018-11-20T21:28:25.379Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:28:37.776Z - debug: GET /
+2018-11-20T21:28:44.204Z - debug: GET /product
+2018-11-20T21:39:54.564Z - info: Environment variables loaded.
+2018-11-20T21:39:54.572Z - debug: START routing
+2018-11-20T21:39:54.596Z - debug: END routing
+2018-11-20T21:39:54.596Z - info: Loaded routing.
+2018-11-20T21:39:54.628Z - info: START seeder.
+2018-11-20T21:39:54.636Z - debug: 4 orders seeded
+2018-11-20T21:39:54.636Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:40:05.061Z - debug: GET /
+2018-11-20T21:40:10.042Z - debug: GET /product
+2018-11-20T21:42:33.164Z - info: Environment variables loaded.
+2018-11-20T21:42:33.250Z - error: uncaughtException: products is not defined date=Tue Nov 20 2018 15:42:33 GMT-0600 (Central Standard Time), pid=17284, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=71483392, heapTotal=62304256, heapUsed=40357280, external=19824100, loadavg=[0, 0, 0], uptime=354624.6831054
+ReferenceError: products is not defined
+    at module.exports (C:\44-563\6-06\6-06\6-06\utils\seeder.js:37:23)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:74:29)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T21:42:33.173Z - debug: START routing
+2018-11-20T21:42:33.198Z - debug: END routing
+2018-11-20T21:42:33.198Z - info: Loaded routing.
+2018-11-20T21:42:33.224Z - info: START seeder.
+2018-11-20T21:44:25.702Z - info: Environment variables loaded.
+2018-11-20T21:44:25.792Z - error: uncaughtException: products is not defined date=Tue Nov 20 2018 15:44:25 GMT-0600 (Central Standard Time), pid=39400, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=72458240, heapTotal=61779968, heapUsed=40888240, external=19942502, loadavg=[0, 0, 0], uptime=354737.2243247
+ReferenceError: products is not defined
+    at module.exports (C:\44-563\6-06\6-06\6-06\utils\seeder.js:37:23)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:74:29)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T21:44:25.712Z - debug: START routing
+2018-11-20T21:44:25.739Z - debug: END routing
+2018-11-20T21:44:25.739Z - info: Loaded routing.
+2018-11-20T21:44:25.766Z - info: START seeder.
+2018-11-20T21:45:57.128Z - info: Environment variables loaded.
+2018-11-20T21:45:57.143Z - debug: START routing
+2018-11-20T21:45:57.179Z - debug: END routing
+2018-11-20T21:45:57.179Z - info: Loaded routing.
+2018-11-20T21:45:57.208Z - info: START seeder.
+2018-11-20T21:45:57.212Z - debug: 4 orders seeded
+2018-11-20T21:45:57.212Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:46:04.169Z - debug: GET /
+2018-11-20T21:46:07.814Z - debug: GET /product
+2018-11-20T21:47:51.765Z - info: Environment variables loaded.
+2018-11-20T21:47:51.861Z - error: uncaughtException: products is not defined date=Tue Nov 20 2018 15:47:51 GMT-0600 (Central Standard Time), pid=43216, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=71536640, heapTotal=62304256, heapUsed=40016240, external=19801990, loadavg=[0, 0, 0], uptime=354943.2922871
+ReferenceError: products is not defined
+    at module.exports (C:\44-563\6-06\6-06\6-06\utils\seeder.js:37:22)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:74:29)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T21:47:51.775Z - debug: START routing
+2018-11-20T21:47:51.805Z - debug: END routing
+2018-11-20T21:47:51.805Z - info: Loaded routing.
+2018-11-20T21:47:51.833Z - info: START seeder.
+2018-11-20T21:50:47.360Z - info: Environment variables loaded.
+2018-11-20T21:50:47.466Z - error: uncaughtException: products is not defined date=Tue Nov 20 2018 15:50:47 GMT-0600 (Central Standard Time), pid=33416, uid=null, gid=null, cwd=C:\44-563\6-06\6-06\6-06, execPath=C:\Program Files\nodejs\node.exe, version=v8.12.0, argv=[C:\Program Files\nodejs\node.exe, C:\44-563\6-06\6-06\6-06\app.js], rss=71413760, heapTotal=62304256, heapUsed=40271264, external=19824100, loadavg=[0, 0, 0], uptime=355118.8997873
+ReferenceError: products is not defined
+    at module.exports (C:\44-563\6-06\6-06\6-06\utils\seeder.js:37:22)
+    at Object.<anonymous> (C:\44-563\6-06\6-06\6-06\app.js:74:29)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+2018-11-20T21:50:47.370Z - debug: START routing
+2018-11-20T21:50:47.398Z - debug: END routing
+2018-11-20T21:50:47.398Z - info: Loaded routing.
+2018-11-20T21:50:47.432Z - info: START seeder.
+2018-11-20T21:51:49.371Z - info: Environment variables loaded.
+2018-11-20T21:51:49.380Z - debug: START routing
+2018-11-20T21:51:49.405Z - debug: END routing
+2018-11-20T21:51:49.405Z - info: Loaded routing.
+2018-11-20T21:51:49.433Z - info: START seeder.
+2018-11-20T21:51:49.437Z - debug: 5 products seeded
+2018-11-20T21:51:49.439Z - debug: 4 orders seeded
+2018-11-20T21:51:49.439Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:52:01.008Z - debug: GET /
+2018-11-20T21:52:09.370Z - debug: GET /product
+2018-11-20T21:52:24.567Z - debug: GET /product/delete/1
+2018-11-20T21:52:24.571Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T21:52:24.577Z - info: RETURNING VIEW FOR {"_id":1,"productKey":"pendrive","decription":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T21:52:44.853Z - debug: POST /product/delete/1
+2018-11-20T21:52:44.903Z - info: Handling DELETE request [object Object]
+2018-11-20T21:52:44.903Z - info: Handling REMOVING ID=1
+2018-11-20T21:52:44.920Z - debug: GET /product
+2018-11-20T21:52:49.107Z - debug: GET /product/details/2
+2018-11-20T21:52:49.112Z - info: Handling GET /details/:id [object Object]
+2018-11-20T21:52:49.113Z - info: RETURNING VIEW FOR {"_id":2,"productKey":"Bread","decription":"eat","unitPrice":1,"MFD":"11/13/2018","EXD":"Best before 2 weeks"}
+2018-11-20T21:52:53.167Z - debug: GET /product/edit/2
+2018-11-20T21:52:53.172Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T21:52:53.176Z - info: RETURNING VIEW FOR{"_id":2,"productKey":"Bread","decription":"eat","unitPrice":1,"MFD":"11/13/2018","EXD":"Best before 2 weeks"}
+2018-11-20T21:54:44.303Z - info: Environment variables loaded.
+2018-11-20T21:54:44.312Z - debug: START routing
+2018-11-20T21:54:44.339Z - debug: END routing
+2018-11-20T21:54:44.339Z - info: Loaded routing.
+2018-11-20T21:54:44.365Z - info: START seeder.
+2018-11-20T21:54:44.369Z - debug: 5 products seeded
+2018-11-20T21:54:44.373Z - debug: 4 orders seeded
+2018-11-20T21:54:44.373Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:54:53.921Z - debug: GET /
+2018-11-20T21:55:04.256Z - debug: GET /product
+2018-11-20T21:55:06.738Z - debug: GET /product/edit/1
+2018-11-20T21:55:06.740Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T21:55:06.745Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","decription":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T21:55:38.574Z - debug: POST /product/save/1
+2018-11-20T21:55:38.650Z - info: Handling SAVE request [object Object]
+2018-11-20T21:55:38.652Z - info: Handling SAVING ID=1
+2018-11-20T21:55:38.653Z - info: ORIGINAL VALUES {"_id":1,"productKey":"pendrive","decription":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T21:55:38.654Z - info: UPDATED VALUES: {"productKey":"pen","Decription":"used to write","unitPrice":"80","MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T21:55:38.654Z - info: SAVING UPDATED product {"_id":1,"productKey":"pen","decription":"place to store memory or data","unitPrice":80,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T21:55:38.664Z - debug: GET /product
+2018-11-20T21:56:44.683Z - info: Environment variables loaded.
+2018-11-20T21:56:44.692Z - debug: START routing
+2018-11-20T21:56:44.718Z - debug: END routing
+2018-11-20T21:56:44.718Z - info: Loaded routing.
+2018-11-20T21:56:44.749Z - info: START seeder.
+2018-11-20T21:56:44.754Z - debug: 5 products seeded
+2018-11-20T21:56:44.759Z - debug: 4 orders seeded
+2018-11-20T21:56:44.759Z - info: END Seeder. Sample data read and verified.
+2018-11-20T21:56:53.909Z - debug: GET /
+2018-11-20T21:57:01.274Z - debug: GET /product
+2018-11-20T21:57:14.240Z - debug: GET /product/edit/1
+2018-11-20T21:57:14.245Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T21:57:14.251Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","decription":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:00:36.807Z - info: Environment variables loaded.
+2018-11-20T22:00:36.816Z - debug: START routing
+2018-11-20T22:00:36.845Z - debug: END routing
+2018-11-20T22:00:36.845Z - info: Loaded routing.
+2018-11-20T22:00:36.879Z - info: START seeder.
+2018-11-20T22:00:36.885Z - debug: 5 products seeded
+2018-11-20T22:00:36.888Z - debug: 4 orders seeded
+2018-11-20T22:00:36.889Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:00:46.812Z - debug: GET /
+2018-11-20T22:00:49.794Z - debug: GET /product
+2018-11-20T22:07:58.014Z - info: Environment variables loaded.
+2018-11-20T22:07:58.028Z - debug: START routing
+2018-11-20T22:07:58.061Z - debug: END routing
+2018-11-20T22:07:58.061Z - info: Loaded routing.
+2018-11-20T22:07:58.099Z - info: START seeder.
+2018-11-20T22:07:58.105Z - debug: 5 products seeded
+2018-11-20T22:07:58.107Z - debug: 4 orders seeded
+2018-11-20T22:07:58.107Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:08:07.280Z - debug: GET /
+2018-11-20T22:08:10.774Z - debug: GET /product
+2018-11-20T22:09:52.842Z - info: Environment variables loaded.
+2018-11-20T22:09:52.852Z - debug: START routing
+2018-11-20T22:09:52.876Z - debug: END routing
+2018-11-20T22:09:52.876Z - info: Loaded routing.
+2018-11-20T22:09:52.902Z - info: START seeder.
+2018-11-20T22:09:52.906Z - debug: 5 products seeded
+2018-11-20T22:09:52.908Z - debug: 4 orders seeded
+2018-11-20T22:09:52.908Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:10:03.667Z - debug: GET /
+2018-11-20T22:10:06.862Z - debug: GET /product
+2018-11-20T22:10:12.234Z - debug: GET /product/edit/1
+2018-11-20T22:10:12.239Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:10:12.240Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:12:03.588Z - info: Environment variables loaded.
+2018-11-20T22:12:03.598Z - debug: START routing
+2018-11-20T22:12:03.623Z - debug: END routing
+2018-11-20T22:12:03.623Z - info: Loaded routing.
+2018-11-20T22:12:03.656Z - info: START seeder.
+2018-11-20T22:12:03.661Z - debug: 5 products seeded
+2018-11-20T22:12:03.663Z - debug: 4 orders seeded
+2018-11-20T22:12:03.663Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:12:13.047Z - debug: GET /
+2018-11-20T22:12:16.571Z - debug: GET /product
+2018-11-20T22:12:53.432Z - info: Environment variables loaded.
+2018-11-20T22:12:53.441Z - debug: START routing
+2018-11-20T22:12:53.469Z - debug: END routing
+2018-11-20T22:12:53.469Z - info: Loaded routing.
+2018-11-20T22:12:53.500Z - info: START seeder.
+2018-11-20T22:12:53.506Z - debug: 5 products seeded
+2018-11-20T22:12:53.508Z - debug: 4 orders seeded
+2018-11-20T22:12:53.508Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:13:03.626Z - debug: GET /
+2018-11-20T22:13:06.522Z - debug: GET /product
+2018-11-20T22:14:31.001Z - debug: GET /product
+2018-11-20T22:14:48.028Z - debug: GET /orderlineitem
+2018-11-20T22:14:50.463Z - debug: GET /orderlineitem/findall
+2018-11-20T22:16:25.635Z - debug: GET /product
+2018-11-20T22:16:41.594Z - debug: GET /product/delete/1
+2018-11-20T22:16:41.599Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:16:41.604Z - info: RETURNING VIEW FOR {"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:16:43.915Z - debug: POST /product/delete/1
+2018-11-20T22:16:43.961Z - info: Handling DELETE request [object Object]
+2018-11-20T22:16:43.962Z - info: Handling REMOVING ID=1
+2018-11-20T22:16:43.974Z - debug: GET /product
+2018-11-20T22:16:48.640Z - debug: GET /product/details/2
+2018-11-20T22:16:48.643Z - info: Handling GET /details/:id [object Object]
+2018-11-20T22:16:48.646Z - info: RETURNING VIEW FOR {"_id":2,"productKey":"Bread","description":"eat","unitPrice":1,"MFD":"11/13/2018","EXD":"Best before 2 weeks"}
+2018-11-20T22:16:52.527Z - debug: GET /product/edit/2
+2018-11-20T22:16:52.533Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:16:52.535Z - info: RETURNING VIEW FOR{"_id":2,"productKey":"Bread","description":"eat","unitPrice":1,"MFD":"11/13/2018","EXD":"Best before 2 weeks"}
+2018-11-20T22:17:04.292Z - debug: GET /product/delete/1
+2018-11-20T22:17:04.293Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:17:12.192Z - debug: GET /
+2018-11-20T22:17:17.749Z - debug: GET /product
+2018-11-20T22:17:37.663Z - debug: GET /product
+2018-11-20T22:17:37.786Z - debug: GET /images/favicon-32x32.png
+2018-11-20T22:25:34.899Z - debug: GET /
+2018-11-20T22:25:38.046Z - debug: GET /product
+2018-11-20T22:25:41.150Z - debug: GET /product/create
+2018-11-20T22:25:41.155Z - info: Handling GET /create[object Object]
+2018-11-20T22:25:41.172Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T22:26:03.075Z - debug: POST /product/save
+2018-11-20T22:26:03.085Z - info: Handling POST [object Object]
+2018-11-20T22:26:03.086Z - debug: {"_id":"6","productKey":"pen","Decription":"used to write","unitPrice":"9.99","MFD":"11/13/2018","EXD":"no expiry"}
+2018-11-20T22:26:03.088Z - info: NEW ID 6
+2018-11-20T22:26:03.101Z - info: SAVING NEW product {"productKey":"pen","unitPrice":9,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:26:03.110Z - debug: GET /product
+2018-11-20T22:30:07.092Z - debug: GET /product/edit/6
+2018-11-20T22:30:07.098Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:30:07.101Z - info: RETURNING VIEW FOR{"productKey":"pen","unitPrice":9,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:30:21.721Z - debug: POST /product/save/6
+2018-11-20T22:30:21.730Z - info: Handling SAVE request [object Object]
+2018-11-20T22:30:21.735Z - info: Handling SAVING ID=6
+2018-11-20T22:30:21.744Z - info: ORIGINAL VALUES {"productKey":"pen","unitPrice":9,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:30:21.750Z - info: UPDATED VALUES: {"productKey":"pen","Decription":"used to write","unitPrice":"9","MFD":"11/13/2018","EXD":"no expiry"}
+2018-11-20T22:30:21.753Z - info: SAVING UPDATED product {"productKey":"pen","unitPrice":9,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:30:21.790Z - debug: GET /product
+2018-11-20T22:32:48.521Z - debug: GET /product
+2018-11-20T22:32:48.661Z - debug: GET /images/favicon-32x32.png
+2018-11-20T22:32:52.410Z - debug: GET /product/delete/6
+2018-11-20T22:32:52.413Z - info: Handling GET /delete/:id [object Object]
+2018-11-20T22:32:52.414Z - info: RETURNING VIEW FOR {"productKey":"pen","unitPrice":9,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:32:54.627Z - debug: POST /product/delete/6
+2018-11-20T22:32:54.631Z - info: Handling DELETE request [object Object]
+2018-11-20T22:32:54.633Z - info: Handling REMOVING ID=6
+2018-11-20T22:32:54.647Z - debug: GET /product
+2018-11-20T22:32:59.141Z - debug: GET /product
+2018-11-20T22:32:59.256Z - debug: GET /images/favicon-32x32.png
+2018-11-20T22:33:01.370Z - debug: GET /product/create
+2018-11-20T22:33:01.377Z - info: Handling GET /create[object Object]
+2018-11-20T22:33:01.382Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T22:33:26.110Z - debug: POST /product/save
+2018-11-20T22:33:26.128Z - info: Handling POST [object Object]
+2018-11-20T22:33:26.128Z - debug: {"_id":"6","productKey":"pen","Decription":"used to write","unitPrice":"900","MFD":"11/13/2018","EXD":"no expiry"}
+2018-11-20T22:33:26.129Z - info: NEW ID 6
+2018-11-20T22:33:26.129Z - info: SAVING NEW product {"productKey":"pen","unitPrice":900,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:33:26.133Z - debug: GET /product
+2018-11-20T22:39:34.134Z - info: Environment variables loaded.
+2018-11-20T22:39:34.143Z - debug: START routing
+2018-11-20T22:39:34.168Z - debug: END routing
+2018-11-20T22:39:34.168Z - info: Loaded routing.
+2018-11-20T22:39:34.195Z - info: START seeder.
+2018-11-20T22:39:34.198Z - debug: 5 products seeded
+2018-11-20T22:39:34.200Z - debug: 4 orders seeded
+2018-11-20T22:39:34.201Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:39:47.413Z - debug: GET /
+2018-11-20T22:39:51.248Z - debug: GET /product
+2018-11-20T22:42:19.301Z - info: Environment variables loaded.
+2018-11-20T22:42:19.311Z - debug: START routing
+2018-11-20T22:42:19.341Z - debug: END routing
+2018-11-20T22:42:19.341Z - info: Loaded routing.
+2018-11-20T22:42:19.371Z - info: START seeder.
+2018-11-20T22:42:19.375Z - debug: 5 products seeded
+2018-11-20T22:42:19.377Z - debug: 4 orders seeded
+2018-11-20T22:42:19.377Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:42:31.796Z - debug: GET /
+2018-11-20T22:42:35.139Z - debug: GET /product
+2018-11-20T22:42:37.250Z - debug: GET /product/create
+2018-11-20T22:42:37.255Z - info: Handling GET /create[object Object]
+2018-11-20T22:42:37.270Z - debug: {"productKey":"product","description":"description","unitPrice":9.99,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T22:43:09.549Z - debug: POST /product/save
+2018-11-20T22:43:09.627Z - info: Handling POST [object Object]
+2018-11-20T22:43:09.627Z - debug: {"_id":"6","productKey":"pen","description":"used to","unitPrice":"8","MFD":"10/6/2098","EXD":"no"}
+2018-11-20T22:43:09.627Z - info: NEW ID 6
+2018-11-20T22:43:09.634Z - info: SAVING NEW product {"productKey":"pen","description":"used to","unitPrice":8,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:43:09.643Z - debug: GET /product
+2018-11-20T22:43:34.848Z - debug: GET /product/edit/6
+2018-11-20T22:43:34.852Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:43:34.858Z - info: RETURNING VIEW FOR{"productKey":"pen","description":"used to","unitPrice":8,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:43:46.349Z - debug: POST /product/save/6
+2018-11-20T22:43:46.363Z - info: Handling SAVE request [object Object]
+2018-11-20T22:43:46.364Z - info: Handling SAVING ID=6
+2018-11-20T22:43:46.369Z - info: ORIGINAL VALUES {"productKey":"pen","description":"used to","unitPrice":8,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:43:46.370Z - info: UPDATED VALUES: {"productKey":"pen","description":"used to","unitPrice":"8","MFD":"11/13/2018","EXD":"Best before 2 months from MFD"}
+2018-11-20T22:43:46.374Z - info: SAVING UPDATED product {"productKey":"pen","description":"used to","unitPrice":8,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:43:46.386Z - debug: GET /product
+2018-11-20T22:43:59.260Z - debug: GET /product/edit/6
+2018-11-20T22:43:59.263Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:43:59.266Z - info: RETURNING VIEW FOR{"productKey":"pen","description":"used to","unitPrice":8,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:44:15.565Z - debug: POST /product/save/6
+2018-11-20T22:44:15.570Z - info: Handling SAVE request [object Object]
+2018-11-20T22:44:15.572Z - info: Handling SAVING ID=6
+2018-11-20T22:44:15.574Z - info: ORIGINAL VALUES {"productKey":"pen","description":"used to","unitPrice":8,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:44:15.575Z - info: UPDATED VALUES: {"productKey":"pen","description":"used to","unitPrice":"8","MFD":"11/13/2018","EXD":"no"}
+2018-11-20T22:44:15.577Z - info: SAVING UPDATED product {"productKey":"pen","description":"used to","unitPrice":8,"MFD":"11/13/2018","EXD":"Best before 2 months from MFD","_id":6}
+2018-11-20T22:44:15.583Z - debug: GET /product
+2018-11-20T22:45:09.298Z - info: Environment variables loaded.
+2018-11-20T22:45:09.306Z - debug: START routing
+2018-11-20T22:45:09.332Z - debug: END routing
+2018-11-20T22:45:09.332Z - info: Loaded routing.
+2018-11-20T22:45:09.360Z - info: START seeder.
+2018-11-20T22:45:09.364Z - debug: 5 products seeded
+2018-11-20T22:45:09.366Z - debug: 4 orders seeded
+2018-11-20T22:45:09.366Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:45:20.961Z - debug: GET /
+2018-11-20T22:45:24.236Z - debug: GET /product
+2018-11-20T22:45:29.823Z - debug: GET /product/edit/1
+2018-11-20T22:45:29.828Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:45:29.831Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:45:49.569Z - debug: POST /product/save/1
+2018-11-20T22:45:49.646Z - info: Handling SAVE request [object Object]
+2018-11-20T22:45:49.646Z - info: Handling SAVING ID=1
+2018-11-20T22:45:49.647Z - info: ORIGINAL VALUES {"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:45:49.648Z - info: UPDATED VALUES: {"productKey":"pendrive","description":"used to","unitPrice":"90","MFD":"11/07/9090","EXD":"NO "}
+2018-11-20T22:45:49.648Z - info: SAVING UPDATED product {"_id":1,"productKey":"pendrive","description":"used to","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:45:49.656Z - debug: GET /product
+2018-11-20T22:47:12.790Z - info: Environment variables loaded.
+2018-11-20T22:47:12.801Z - debug: START routing
+2018-11-20T22:47:12.831Z - debug: END routing
+2018-11-20T22:47:12.831Z - info: Loaded routing.
+2018-11-20T22:47:12.864Z - info: START seeder.
+2018-11-20T22:47:12.869Z - debug: 5 products seeded
+2018-11-20T22:47:12.875Z - debug: 4 orders seeded
+2018-11-20T22:47:12.875Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:47:22.001Z - debug: GET /
+2018-11-20T22:47:26.155Z - debug: GET /product
+2018-11-20T22:47:28.568Z - debug: GET /product/edit/1
+2018-11-20T22:47:28.574Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:47:28.575Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:47:48.725Z - debug: POST /product/save/1
+2018-11-20T22:47:48.808Z - info: Handling SAVE request [object Object]
+2018-11-20T22:47:48.808Z - info: Handling SAVING ID=1
+2018-11-20T22:47:48.810Z - info: ORIGINAL VALUES {"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:47:48.811Z - info: UPDATED VALUES: {"productKey":"pendrive","description":"used to","unitPrice":"9999","MFD":"9/11/2018","EXD":"NO "}
+2018-11-20T22:47:48.811Z - info: SAVING UPDATED product {"_id":1,"productKey":"pendrive","description":"used to","unitPrice":9999,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:47:48.828Z - debug: GET /product
+2018-11-20T22:50:54.091Z - debug: GET /product/edit/1
+2018-11-20T22:50:54.094Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:50:54.096Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","description":"used to","unitPrice":9999,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:51:11.537Z - debug: GET /product?
+2018-11-20T22:53:23.951Z - info: Environment variables loaded.
+2018-11-20T22:53:23.960Z - debug: START routing
+2018-11-20T22:53:23.985Z - debug: END routing
+2018-11-20T22:53:23.985Z - info: Loaded routing.
+2018-11-20T22:53:24.020Z - info: START seeder.
+2018-11-20T22:53:24.026Z - debug: 5 products seeded
+2018-11-20T22:53:24.029Z - debug: 4 orders seeded
+2018-11-20T22:53:24.029Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:54:33.249Z - info: Environment variables loaded.
+2018-11-20T22:54:33.258Z - debug: START routing
+2018-11-20T22:54:33.283Z - debug: END routing
+2018-11-20T22:54:33.283Z - info: Loaded routing.
+2018-11-20T22:54:33.326Z - info: START seeder.
+2018-11-20T22:54:33.331Z - debug: 5 products seeded
+2018-11-20T22:54:33.334Z - debug: 4 orders seeded
+2018-11-20T22:54:33.334Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:54:45.632Z - debug: GET /
+2018-11-20T22:54:49.044Z - debug: GET /product
+2018-11-20T22:54:51.492Z - debug: GET /product/edit/1
+2018-11-20T22:54:51.499Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:54:51.503Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:55:42.605Z - debug: POST /product/save/1
+2018-11-20T22:55:42.688Z - info: Handling SAVE request [object Object]
+2018-11-20T22:55:42.688Z - info: Handling SAVING ID=1
+2018-11-20T22:55:42.689Z - info: ORIGINAL VALUES {"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:55:42.689Z - info: UPDATED VALUES: {"productKey":"pen","description":"used to write","unitPrice":"9999","MFD":"2018-11-17","EXD":"2018-11-29"}
+2018-11-20T22:55:42.690Z - info: SAVING UPDATED product {"_id":1,"productKey":"pen","description":"used to write","unitPrice":9999,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:55:42.697Z - debug: GET /product
+2018-11-20T22:56:15.873Z - debug: GET /product/edit/1
+2018-11-20T22:56:15.876Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:56:15.877Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pen","description":"used to write","unitPrice":9999,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:56:42.322Z - debug: POST /product/save/1
+2018-11-20T22:56:42.337Z - info: Handling SAVE request [object Object]
+2018-11-20T22:56:42.338Z - info: Handling SAVING ID=1
+2018-11-20T22:56:42.341Z - info: ORIGINAL VALUES {"_id":1,"productKey":"pen","description":"used to write","unitPrice":9999,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:56:42.342Z - info: UPDATED VALUES: {"productKey":"pen","description":"used to write","unitPrice":"99999999","MFD":"1996-08-12","EXD":"1998-12-12"}
+2018-11-20T22:56:42.344Z - info: SAVING UPDATED product {"_id":1,"productKey":"pen","description":"used to write","unitPrice":99999999,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:56:42.351Z - debug: GET /product
+2018-11-20T22:58:23.705Z - info: Environment variables loaded.
+2018-11-20T22:58:23.715Z - debug: START routing
+2018-11-20T22:58:23.743Z - debug: END routing
+2018-11-20T22:58:23.743Z - info: Loaded routing.
+2018-11-20T22:58:23.776Z - info: START seeder.
+2018-11-20T22:58:23.781Z - debug: 5 products seeded
+2018-11-20T22:58:23.783Z - debug: 4 orders seeded
+2018-11-20T22:58:23.783Z - info: END Seeder. Sample data read and verified.
+2018-11-20T22:58:37.285Z - debug: GET /
+2018-11-20T22:58:59.305Z - debug: GET /product
+2018-11-20T22:59:01.312Z - debug: GET /product/edit/1
+2018-11-20T22:59:01.315Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T22:59:01.321Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:59:35.773Z - debug: POST /product/save/1
+2018-11-20T22:59:35.828Z - info: Handling SAVE request [object Object]
+2018-11-20T22:59:35.829Z - info: Handling SAVING ID=1
+2018-11-20T22:59:35.829Z - info: ORIGINAL VALUES {"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:59:35.830Z - info: UPDATED VALUES: {"productKey":"pen","description":"used to write","unitPrice":"99999","MFD":"2018-11-08","EXD":"2018-12-31"}
+2018-11-20T22:59:35.831Z - info: SAVING UPDATED product {"_id":1,"productKey":"pen","description":"used to write","unitPrice":99999,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T22:59:35.839Z - debug: GET /product
+2018-11-20T23:00:38.872Z - info: Environment variables loaded.
+2018-11-20T23:00:38.881Z - debug: START routing
+2018-11-20T23:00:38.906Z - debug: END routing
+2018-11-20T23:00:38.906Z - info: Loaded routing.
+2018-11-20T23:00:38.933Z - info: START seeder.
+2018-11-20T23:00:38.937Z - debug: 5 products seeded
+2018-11-20T23:00:38.938Z - debug: 4 orders seeded
+2018-11-20T23:00:38.938Z - info: END Seeder. Sample data read and verified.
+2018-11-20T23:00:48.977Z - debug: GET /
+2018-11-20T23:00:52.388Z - debug: GET /product
+2018-11-20T23:00:54.281Z - debug: GET /product/edit/1
+2018-11-20T23:00:54.283Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T23:00:54.285Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T23:01:25.557Z - debug: POST /product/save/1
+2018-11-20T23:01:25.640Z - info: Handling SAVE request [object Object]
+2018-11-20T23:01:25.645Z - info: Handling SAVING ID=1
+2018-11-20T23:01:25.646Z - info: ORIGINAL VALUES {"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T23:01:25.646Z - info: UPDATED VALUES: {"productKey":"pen","description":"used to write","unitPrice":"90","MFD":"2018-11-01","EXD":"2018-12-31"}
+2018-11-20T23:01:25.647Z - info: SAVING UPDATED product {"_id":1,"productKey":"pen","description":"used to write","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T23:01:25.660Z - debug: GET /product
+2018-11-20T23:03:08.536Z - debug: GET /product/edit/1
+2018-11-20T23:03:08.540Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T23:03:08.542Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pen","description":"used to write","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T23:34:20.157Z - info: Environment variables loaded.
+2018-11-20T23:34:20.166Z - debug: START routing
+2018-11-20T23:34:20.193Z - debug: END routing
+2018-11-20T23:34:20.193Z - info: Loaded routing.
+2018-11-20T23:34:20.222Z - info: START seeder.
+2018-11-20T23:34:20.229Z - debug: 5 products seeded
+2018-11-20T23:34:20.232Z - debug: 4 orders seeded
+2018-11-20T23:34:20.232Z - info: END Seeder. Sample data read and verified.
+2018-11-20T23:34:35.643Z - debug: GET /
+2018-11-20T23:34:38.213Z - debug: GET /product
+2018-11-20T23:34:41.375Z - debug: GET /product/edit/1
+2018-11-20T23:34:41.378Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T23:34:41.379Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T23:35:02.559Z - debug: POST /product/save/1
+2018-11-20T23:35:02.592Z - info: Handling SAVE request [object Object]
+2018-11-20T23:35:02.592Z - info: Handling SAVING ID=1
+2018-11-20T23:35:02.594Z - info: ORIGINAL VALUES {"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T23:35:02.594Z - info: UPDATED VALUES: {"productKey":"pendrive","description":"i dono","unitPrice":"99","MFD":"2018-11-16","EXD":"2018-11-30"}
+2018-11-20T23:35:02.595Z - info: SAVING UPDATED product {"_id":1,"productKey":"pendrive","description":"i dono","unitPrice":99,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T23:35:02.607Z - debug: GET /product
+2018-11-20T23:39:53.209Z - info: Environment variables loaded.
+2018-11-20T23:39:53.223Z - debug: START routing
+2018-11-20T23:39:53.266Z - debug: END routing
+2018-11-20T23:39:53.266Z - info: Loaded routing.
+2018-11-20T23:39:53.308Z - info: START seeder.
+2018-11-20T23:39:53.315Z - debug: 5 products seeded
+2018-11-20T23:39:53.319Z - debug: 4 orders seeded
+2018-11-20T23:39:53.319Z - info: END Seeder. Sample data read and verified.
+2018-11-20T23:40:04.550Z - debug: GET /
+2018-11-20T23:40:07.491Z - debug: GET /product
+2018-11-20T23:40:09.791Z - debug: GET /product/edit/1
+2018-11-20T23:40:09.794Z - info: Handling GET /edit/:id [object Object]
+2018-11-20T23:40:09.799Z - info: RETURNING VIEW FOR{"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T23:40:34.395Z - debug: POST /product/save/1
+2018-11-20T23:40:34.436Z - info: Handling SAVE request [object Object]
+2018-11-20T23:40:34.437Z - info: Handling SAVING ID=1
+2018-11-20T23:40:34.437Z - info: ORIGINAL VALUES {"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-20T23:40:34.438Z - info: UPDATED VALUES: {"productKey":"pen","description":"used to write","unitPrice":"9089","MFD":"2018-11-02","EXD":"2018-11-30"}
+2018-11-20T23:40:34.438Z - info: SAVING UPDATED product {"_id":1,"productKey":"pen","description":"used to write","unitPrice":9089,"MFD":"2018-11-02","EXD":"2018-11-30"}
+2018-11-20T23:40:34.445Z - debug: GET /product
+2018-11-20T23:41:11.521Z - debug: GET /product/create
+2018-11-20T23:41:11.522Z - info: Handling GET /create[object Object]
+2018-11-20T23:41:11.527Z - debug: {"productKey":"product","description":"description","unitPrice":9.99}
+2018-11-20T23:41:52.186Z - debug: POST /product/save
+2018-11-20T23:41:52.189Z - info: Handling POST [object Object]
+2018-11-20T23:41:52.189Z - debug: {"_id":"6","productKey":"pen","description":"i dono","unitPrice":"11111","MFD":"1996-08-12","EXD":"1998-12-12"}
+2018-11-20T23:41:52.190Z - info: NEW ID 6
+2018-11-20T23:41:52.196Z - info: SAVING NEW product {"productKey":"pen","description":"i dono","unitPrice":11111,"_id":6,"MFD":"1996-08-12T00:00:00.000Z","EXD":"1998-12-12T00:00:00.000Z"}
+2018-11-20T23:41:52.200Z - debug: GET /product
+2018-11-29T15:13:09.097Z - info: Environment variables loaded.
+2018-11-29T15:13:09.128Z - debug: START routing
+2018-11-29T15:13:09.184Z - debug: END routing
+2018-11-29T15:13:09.184Z - info: Loaded routing.
+2018-11-29T15:13:09.241Z - info: START seeder.
+2018-11-29T15:13:09.245Z - debug: 5 products seeded
+2018-11-29T15:13:09.247Z - debug: 4 orders seeded
+2018-11-29T15:13:09.247Z - info: END Seeder. Sample data read and verified.
+2018-11-29T15:13:29.695Z - debug: GET /
+2018-11-29T15:13:30.456Z - debug: GET /css/main.css
+2018-11-29T15:13:30.619Z - debug: GET /images/favicon-32x32.png
+2018-11-29T15:13:30.620Z - debug: GET /images/manifest.json
+2018-11-29T15:13:30.631Z - debug: GET /images/favicon-16x16.png
+2018-11-29T15:13:30.639Z - debug: GET /images/favicon-96x96.png
+2018-11-29T15:13:30.649Z - debug: GET /images/android-icon-192x192.png
+2018-11-29T15:13:34.055Z - debug: GET /product
+2018-11-29T15:13:42.600Z - debug: GET /orderlineitem
+2018-11-29T15:13:47.027Z - debug: GET /customer
+2018-11-29T15:13:51.593Z - debug: GET /order
+2018-11-29T15:13:56.237Z - debug: GET /product
+2018-11-29T15:13:58.420Z - debug: GET /product/delete/1
+2018-11-29T15:13:58.426Z - info: Handling GET /delete/:id [object Object]
+2018-11-29T15:13:58.430Z - info: RETURNING VIEW FOR {"_id":1,"productKey":"pendrive","description":"place to store memory or data","unitPrice":90,"MFD":"11/13/2018","EXD":"NO EXPIRY"}
+2018-11-29T15:14:01.233Z - debug: POST /product/delete/1
+2018-11-29T15:14:01.290Z - info: Handling DELETE request [object Object]
+2018-11-29T15:14:01.291Z - info: Handling REMOVING ID=1
+2018-11-29T15:14:01.307Z - debug: GET /product
+2018-11-29T16:56:25.047Z - info: Environment variables loaded.
+2018-11-29T16:56:25.075Z - debug: START routing
+2018-11-29T16:56:25.109Z - debug: END routing
+2018-11-29T16:56:25.109Z - info: Loaded routing.
+2018-11-29T16:56:25.163Z - info: START seeder.
+2018-11-29T16:56:25.166Z - debug: 5 products seeded
+2018-11-29T16:56:25.169Z - debug: 4 orders seeded
+2018-11-29T16:56:25.169Z - info: END Seeder. Sample data read and verified.
+2018-11-29T16:56:32.720Z - debug: GET /
+2018-11-29T16:56:34.979Z - debug: GET /About
+2018-11-29T18:41:48.911Z - info: Environment variables loaded.
+2018-11-29T18:41:48.922Z - debug: START routing
+2018-11-29T18:41:48.949Z - debug: END routing
+2018-11-29T18:41:48.949Z - info: Loaded routing.
+2018-11-29T18:41:48.983Z - info: START seeder.
+2018-11-29T18:41:48.987Z - debug: 5 products seeded
+2018-11-29T18:41:48.989Z - debug: 4 orders seeded
+2018-11-29T18:41:48.989Z - info: END Seeder. Sample data read and verified.
+2018-11-29T18:41:56.343Z - debug: GET /
+2018-11-29T18:41:59.217Z - debug: GET /customer
+2018-11-29T18:42:03.802Z - debug: GET /product
+2018-11-29T18:42:07.073Z - debug: GET /About
+2018-11-29T18:42:55.761Z - debug: GET /
+2018-11-29T18:42:55.897Z - debug: GET /images/favicon-32x32.png
+2018-11-29T18:42:58.182Z - debug: GET /About
+2018-11-29T18:43:01.426Z - debug: GET /order
+2018-11-29T18:43:05.281Z - debug: GET /product
+2018-11-29T18:43:07.226Z - debug: GET /About
+2018-11-29T18:45:02.928Z - debug: GET /About
+2018-11-29T18:45:03.122Z - debug: GET /images/favicon-32x32.png
+2018-11-29T18:45:16.448Z - debug: GET /About
+2018-11-29T18:45:18.244Z - debug: GET /About
+2018-11-29T18:45:19.178Z - debug: GET /About
+2018-11-29T18:45:20.845Z - debug: GET /About
+2018-11-29T18:45:22.516Z - debug: GET /About
+2018-11-29T18:45:23.518Z - debug: GET /orderlineitem
+2018-11-29T18:45:24.583Z - debug: GET /product
+2018-11-29T18:45:26.451Z - debug: GET /orderlineitem
+2018-11-29T18:45:30.838Z - debug: GET /About
+2018-11-29T18:45:32.277Z - debug: GET /About
+2018-11-29T21:57:06.907Z - info: Environment variables loaded.
+2018-11-29T21:57:06.920Z - debug: START routing
+2018-11-29T21:57:06.950Z - debug: END routing
+2018-11-29T21:57:06.950Z - info: Loaded routing.
+2018-11-29T21:57:06.984Z - info: START seeder.
+2018-11-29T21:57:06.989Z - debug: 5 products seeded
+2018-11-29T21:57:06.992Z - debug: 4 orders seeded
+2018-11-29T21:57:06.992Z - info: END Seeder. Sample data read and verified.
+2018-11-29T21:58:39.456Z - debug: GET /
+2018-11-29T21:58:42.867Z - debug: GET /About
+2018-11-29T22:00:26.420Z - debug: GET /About
+2018-11-29T22:00:26.556Z - debug: GET /images/favicon-32x32.png
+2018-11-30T00:11:22.491Z - info: Environment variables loaded.
+2018-11-30T00:11:22.513Z - debug: START routing
+2018-11-30T00:11:22.555Z - debug: END routing
+2018-11-30T00:11:22.555Z - info: Loaded routing.
+2018-11-30T00:11:22.610Z - info: START seeder.
+2018-11-30T00:11:22.614Z - debug: 5 products seeded
+2018-11-30T00:11:22.616Z - debug: 4 orders seeded
+2018-11-30T00:11:22.616Z - info: END Seeder. Sample data read and verified.
+2018-11-30T00:13:07.249Z - info: Environment variables loaded.
+2018-11-30T00:13:07.261Z - debug: START routing
+2018-11-30T00:13:07.294Z - debug: END routing
+2018-11-30T00:13:07.294Z - info: Loaded routing.
+2018-11-30T00:13:07.334Z - info: START seeder.
+2018-11-30T00:13:07.338Z - debug: 5 products seeded
+2018-11-30T00:13:07.342Z - debug: 4 orders seeded
+2018-11-30T00:13:07.343Z - info: END Seeder. Sample data read and verified.
+2018-11-30T00:13:10.194Z - debug: GET /
+2018-11-30T00:13:11.064Z - debug: GET /images/favicon-32x32.png
+2018-11-30T00:13:11.086Z - debug: GET /images/favicon-16x16.png
+2018-11-30T00:13:11.097Z - debug: GET /images/favicon-96x96.png
+2018-11-30T00:13:11.107Z - debug: GET /images/android-icon-192x192.png
+2018-11-30T00:13:12.729Z - debug: GET /customer
+2018-11-30T00:13:14.292Z - debug: GET /order
+2018-11-30T00:13:17.575Z - debug: GET /About
+2018-11-30T00:15:57.367Z - info: Environment variables loaded.
+2018-11-30T00:15:57.377Z - debug: START routing
+2018-11-30T00:15:57.411Z - debug: END routing
+2018-11-30T00:15:57.411Z - info: Loaded routing.
+2018-11-30T00:15:57.452Z - info: START seeder.
+2018-11-30T00:15:57.461Z - debug: 5 products seeded
+2018-11-30T00:15:57.466Z - debug: 4 orders seeded
+2018-11-30T00:15:57.466Z - info: END Seeder. Sample data read and verified.
+2018-11-30T00:16:02.787Z - debug: GET /About
+2018-11-30T00:16:03.605Z - debug: GET /images/favicon-32x32.png
+2018-11-30T00:56:19.767Z - info: Environment variables loaded.
+2018-11-30T00:56:19.777Z - debug: START routing
+2018-11-30T00:56:19.806Z - debug: END routing
+2018-11-30T00:56:19.806Z - info: Loaded routing.
+2018-11-30T00:56:19.840Z - info: START seeder.
+2018-11-30T00:56:19.843Z - debug: 5 products seeded
+2018-11-30T00:56:19.845Z - debug: 4 orders seeded
+2018-11-30T00:56:19.845Z - info: END Seeder. Sample data read and verified.
+=======
+2018-12-03T10:19:34.797Z - info: Environment variables loaded.
+2018-12-03T10:19:34.803Z - debug: START routing
+2018-12-03T10:19:34.822Z - debug: END routing
+2018-12-03T10:19:34.822Z - info: Loaded routing.
+2018-12-03T10:19:34.839Z - info: START seeder.
+2018-12-03T10:19:34.841Z - debug: 4 customers seeded
+2018-12-03T10:19:34.842Z - debug: 5 products seeded
+2018-12-03T10:19:34.844Z - debug: 4 order seeded
+2018-12-03T10:19:34.845Z - debug: 5 orderLineItems seeded
+2018-12-03T10:19:34.845Z - info: END Seeder. Sample data read and verified.
+2018-12-03T10:19:41.521Z - debug: GET /
+2018-12-03T10:19:41.526Z - debug: Request to /
+2018-12-03T10:19:44.111Z - debug: GET /products
+2018-12-03T10:19:45.771Z - debug: GET /order
+2018-12-03T10:19:49.971Z - debug: GET /orderLine
+2018-12-03T10:21:07.724Z - debug: GET /orderLine
+2018-12-03T10:21:08.272Z - debug: GET /images/android-icon-192x192.png
+2018-12-03T10:21:20.932Z - debug: GET /about/t6
+2018-12-03T10:21:29.463Z - debug: GET /orderLine
+2018-12-03T10:21:31.044Z - debug: GET /orderLine
+2018-12-03T10:21:32.806Z - debug: GET /
+2018-12-03T10:21:32.807Z - debug: Request to /
+2018-12-03T10:21:43.205Z - debug: GET /
+2018-12-03T10:21:43.206Z - debug: Request to /
+2018-12-03T10:21:43.601Z - debug: GET /
+2018-12-03T10:21:43.602Z - debug: Request to /
+2018-12-03T10:21:43.942Z - debug: GET /
+2018-12-03T10:21:43.943Z - debug: Request to /
+2018-12-03T10:21:44.104Z - debug: GET /
+2018-12-03T10:21:44.106Z - debug: Request to /
+2018-12-03T10:21:44.283Z - debug: GET /
+2018-12-03T10:21:44.284Z - debug: Request to /
+2018-12-03T10:21:44.465Z - debug: GET /
+2018-12-03T10:21:44.466Z - debug: Request to /
+2018-12-03T10:21:44.636Z - debug: GET /
+2018-12-03T10:21:44.637Z - debug: Request to /
+2018-12-03T10:21:44.814Z - debug: GET /
+2018-12-03T10:21:44.814Z - debug: Request to /
+2018-12-03T10:21:44.999Z - debug: GET /
+2018-12-03T10:21:45.000Z - debug: Request to /
+2018-12-03T10:21:45.175Z - debug: GET /
+2018-12-03T10:21:45.176Z - debug: Request to /
+2018-12-03T10:21:45.343Z - debug: GET /
+2018-12-03T10:21:45.344Z - debug: Request to /
+2018-12-03T10:21:54.269Z - debug: GET /
+2018-12-03T10:21:54.270Z - debug: Request to /
+2018-12-03T10:21:55.653Z - debug: GET /orderLine
+2018-12-03T10:21:59.134Z - debug: GET /about/t6
+2018-12-03T10:22:00.430Z - debug: GET /orderLine
+2018-12-03T10:23:25.918Z - debug: GET /orderLine
+2018-12-03T10:23:40.442Z - debug: GET /orderLine
+2018-12-03T10:23:41.414Z - debug: GET /orderLine
+2018-12-03T10:24:05.800Z - debug: GET /orderLine
+2018-12-03T10:24:32.654Z - debug: GET /orderLine
+2018-12-03T10:24:55.379Z - debug: GET /orderLine
+2018-12-03T10:25:30.509Z - debug: GET /orderLine
+2018-12-03T10:26:12.535Z - debug: GET /orderLine
+2018-12-03T10:26:32.638Z - debug: GET /orderLine
+2018-12-03T10:26:43.760Z - debug: GET /orderLine
+2018-12-03T10:26:57.002Z - debug: GET /orderLine
+2018-12-03T10:27:12.136Z - debug: GET /orderLine
+2018-12-03T10:27:31.985Z - debug: GET /orderLine
+2018-12-03T10:41:19.687Z - info: Environment variables loaded.
+2018-12-03T10:41:19.693Z - debug: START routing
+2018-12-03T10:41:19.715Z - debug: END routing
+2018-12-03T10:41:19.715Z - info: Loaded routing.
+2018-12-03T10:41:19.736Z - info: START seeder.
+2018-12-03T10:41:19.739Z - debug: 4 customers seeded
+2018-12-03T10:41:19.740Z - debug: 5 products seeded
+2018-12-03T10:41:19.741Z - debug: 4 order seeded
+2018-12-03T10:41:19.742Z - debug: 5 orderLineItems seeded
+2018-12-03T10:41:19.743Z - info: END Seeder. Sample data read and verified.
+2018-12-03T10:41:21.180Z - debug: GET /orderLine
+2018-12-03T10:41:26.913Z - debug: GET /products
+2018-12-03T10:41:41.197Z - info: Environment variables loaded.
+2018-12-03T10:41:41.204Z - debug: START routing
+2018-12-03T10:41:41.224Z - debug: END routing
+2018-12-03T10:41:41.225Z - info: Loaded routing.
+2018-12-03T10:41:41.244Z - info: START seeder.
+2018-12-03T10:41:41.246Z - debug: 4 customers seeded
+2018-12-03T10:41:41.248Z - debug: 5 products seeded
+2018-12-03T10:41:41.250Z - debug: 4 order seeded
+2018-12-03T10:41:41.251Z - debug: 5 orderLineItems seeded
+2018-12-03T10:41:41.252Z - info: END Seeder. Sample data read and verified.
+2018-12-03T10:41:41.446Z - debug: GET /products
+2018-12-03T10:43:48.090Z - info: Environment variables loaded.
+2018-12-03T10:43:48.097Z - debug: START routing
+2018-12-03T10:43:48.117Z - debug: END routing
+2018-12-03T10:43:48.118Z - info: Loaded routing.
+2018-12-03T10:43:48.136Z - info: START seeder.
+2018-12-03T10:43:48.139Z - debug: 4 customers seeded
+2018-12-03T10:43:48.140Z - debug: 5 products seeded
+2018-12-03T10:43:48.141Z - debug: 4 order seeded
+2018-12-03T10:43:48.143Z - debug: 5 orderLineItems seeded
+2018-12-03T10:43:48.143Z - info: END Seeder. Sample data read and verified.
+2018-12-03T10:43:49.028Z - debug: GET /products
+2018-12-03T10:43:52.580Z - debug: GET /orderLine
+2018-12-03T10:43:55.607Z - debug: GET /order
+2018-12-03T10:43:56.351Z - debug: GET /order/create
+2018-12-03T10:43:56.353Z - info: Handling GET /create[object Object]
+2018-12-03T10:43:56.356Z - debug: {"datePlaced":"2018-12-03T10:43:48.111Z","paymentType":"not selected yet","paid":false}
+2018-12-03T10:44:11.811Z - debug: POST /order/save
+2018-12-03T10:44:11.823Z - info: Handling POST [object Object]
+2018-12-03T10:44:11.824Z - debug: {"_id":"5","firstname":"mfgh","lastname":"fghfgh","datePlaced":"7897-03-08","dateShipped":"275760-07-08","paymentType":"Credit Card","paid":"true"}
+2018-12-03T10:44:11.825Z - info: NEW ID 5
+2018-12-03T10:44:11.827Z - info: SAVING NEW order {"datePlaced":"7897-03-08T00:00:00.000Z","paymentType":"Credit Card","paid":true,"_id":5,"firstname":"mfgh","lastname":"fghfgh","dateShipped":"+275760-07-08T05:00:00.000Z"}
+2018-12-03T10:44:11.834Z - debug: GET /order
+2018-12-03T10:44:19.971Z - debug: GET /orderLine
+2018-12-03T10:44:23.764Z - debug: GET /customer
+2018-12-03T10:44:26.605Z - debug: GET /
+2018-12-03T10:44:26.606Z - debug: Request to /
+2018-12-03T10:45:27.177Z - debug: GET /orderLine
+2018-12-03T10:48:30.580Z - debug: GET /
+2018-12-03T10:48:30.580Z - debug: Request to /
+2018-12-03T10:49:13.035Z - debug: GET /
+2018-12-03T10:49:13.035Z - debug: Request to /
+2018-12-03T10:49:15.270Z - debug: GET /customer
+2018-12-03T10:49:15.899Z - debug: GET /products
+2018-12-03T10:49:16.380Z - debug: GET /order
+2018-12-03T10:49:16.722Z - debug: GET /orderLine
+2018-12-03T10:49:17.362Z - debug: GET /customer
+2018-12-03T10:49:18.278Z - debug: GET /
+2018-12-03T10:49:18.278Z - debug: Request to /
+2018-12-03T10:49:54.617Z - debug: GET /
+2018-12-03T10:49:54.618Z - debug: Request to /
+2018-12-03T10:50:12.936Z - debug: GET /customer
+2018-12-03T10:50:13.519Z - debug: GET /products
+2018-12-03T10:50:14.195Z - debug: GET /order
+2018-12-03T10:50:15.331Z - debug: GET /orderLine
+2018-12-03T10:50:16.210Z - debug: GET /order
+2018-12-03T10:50:16.886Z - debug: GET /products
+2018-12-03T10:50:17.374Z - debug: GET /customer
+2018-12-03T10:50:18.010Z - debug: GET /products
+2018-12-03T10:50:18.658Z - debug: GET /order
+2018-12-03T10:50:19.292Z - debug: GET /orderLine
+2018-12-03T10:50:21.264Z - debug: GET /orderLine/create
+2018-12-03T10:50:21.265Z - info: Handling GET /create[object Object]
+2018-12-03T10:50:21.266Z - debug: {"quantity":1}
+2018-12-03T10:50:24.895Z - debug: POST /orderLine/save
+2018-12-03T10:50:24.896Z - info: Handling POST [object Object]
+2018-12-03T10:50:24.897Z - debug: {"_id":"6","orderID":"er","lineNumber":"werwer","productKey":"werwe","quantity":"1"}
+2018-12-03T10:50:24.897Z - info: NEW ID 6
+2018-12-03T10:50:24.899Z - info: SAVING NEW orderLine {"quantity":1,"_id":6,"productKey":"werwe"}
+2018-12-03T10:50:24.902Z - debug: GET /orderLine
+2018-12-03T10:50:32.848Z - debug: GET /customer
+2018-12-03T10:50:34.796Z - debug: GET /
+2018-12-03T10:50:34.797Z - debug: Request to /
+2018-12-03T10:59:47.612Z - info: Environment variables loaded.
+2018-12-03T10:59:47.618Z - debug: START routing
+2018-12-03T10:59:47.639Z - debug: END routing
+2018-12-03T10:59:47.639Z - info: Loaded routing.
+2018-12-03T10:59:47.655Z - info: START seeder.
+2018-12-03T10:59:47.658Z - debug: 4 customers seeded
+2018-12-03T10:59:47.659Z - debug: 5 products seeded
+2018-12-03T10:59:47.660Z - debug: 4 order seeded
+2018-12-03T10:59:47.661Z - debug: 5 orderLineItems seeded
+2018-12-03T10:59:47.661Z - info: END Seeder. Sample data read and verified.
+2018-12-03T10:59:53.130Z - debug: GET /
+2018-12-03T10:59:53.135Z - debug: Request to /
+2018-12-03T11:00:17.261Z - debug: GET /products
+2018-12-03T11:00:38.591Z - debug: GET /orderLine
+2018-12-03T11:00:40.272Z - debug: GET /order
+2018-12-03T11:00:44.326Z - debug: GET /products
+2018-12-03T11:05:21.995Z - debug: GET /products
+2018-12-03T11:05:32.700Z - debug: GET /products
+2018-12-03T11:05:34.728Z - debug: GET /customer
+2018-12-03T11:05:40.635Z - debug: GET /customer
+2018-12-03T11:05:42.864Z - debug: GET /products
+2018-12-03T11:05:43.971Z - debug: GET /order
+2018-12-03T11:05:45.299Z - debug: GET /orderLine
+2018-12-03T11:05:46.237Z - debug: GET /order
+2018-12-03T11:05:47.100Z - debug: GET /products
+2018-12-03T11:06:44.740Z - debug: GET /products
+2018-12-03T11:06:53.259Z - debug: GET /products/create
+2018-12-03T11:06:53.260Z - info: Handling GET /create[object Object]
+2018-12-03T11:06:53.264Z - debug: {"productName":"","productDescription":"","price":0,"productCategory":"","_id":"5c050e4df75e393b3cc51a7e"}
+2018-12-03T11:07:05.169Z - debug: POST /products/save
+2018-12-03T11:07:05.182Z - info: Handling POST [object Object]
+2018-12-03T11:07:05.182Z - debug: {"_productid":"1","productName":"fgdf","productDescription":"dfg","price":"0324","productCategory":"sdf","sellerId":""}
+2018-12-03T11:07:05.183Z - info: NEW ID 1
+2018-12-03T11:07:05.185Z - info: SAVING NEW product {"productName":"fgdf","productDescription":"dfg","price":1244,"productCategory":"sdf","_id":"5c050e59f75e393b3cc51a7f","_productid":1,"sellerId":null}
+2018-12-03T11:07:05.192Z - debug: GET /products
+2018-12-03T11:07:44.939Z - info: Environment variables loaded.
+2018-12-03T11:07:44.945Z - debug: START routing
+2018-12-03T11:07:44.971Z - debug: END routing
+2018-12-03T11:07:44.971Z - info: Loaded routing.
+2018-12-03T11:07:44.989Z - info: START seeder.
+2018-12-03T11:07:44.992Z - debug: 4 customers seeded
+2018-12-03T11:07:44.993Z - debug: 5 products seeded
+2018-12-03T11:07:44.995Z - debug: 4 order seeded
+2018-12-03T11:07:44.996Z - debug: 5 orderLineItems seeded
+2018-12-03T11:07:44.996Z - info: END Seeder. Sample data read and verified.
+2018-12-03T11:07:47.215Z - debug: GET /
+2018-12-03T11:07:47.218Z - debug: Request to /
+2018-12-03T11:07:50.067Z - debug: GET /customer
+2018-12-03T11:07:55.966Z - debug: GET /products
+2018-12-03T11:08:00.286Z - debug: GET /order
+2018-12-03T11:08:05.075Z - debug: GET /orderLine
+2018-12-03T11:08:12.315Z - debug: GET /customer
+2018-12-03T11:08:12.623Z - debug: GET /
+2018-12-03T11:08:12.624Z - debug: Request to /
+2018-12-03T11:10:50.788Z - info: Environment variables loaded.
+2018-12-03T11:10:50.795Z - debug: START routing
+2018-12-03T11:10:50.822Z - debug: END routing
+2018-12-03T11:10:50.822Z - info: Loaded routing.
+2018-12-03T11:10:50.847Z - info: START seeder.
+2018-12-03T11:10:50.850Z - debug: 4 customers seeded
+2018-12-03T11:10:50.851Z - debug: 5 products seeded
+2018-12-03T11:10:50.852Z - debug: 4 order seeded
+2018-12-03T11:10:50.853Z - debug: 5 orderLineItems seeded
+2018-12-03T11:10:50.853Z - info: END Seeder. Sample data read and verified.
+2018-12-03T15:07:04.885Z - info: Environment variables loaded.
+2018-12-03T15:07:04.906Z - debug: START routing
+2018-12-03T15:07:04.950Z - debug: END routing
+2018-12-03T15:07:04.950Z - info: Loaded routing.
+2018-12-03T15:07:04.999Z - info: START seeder.
+2018-12-03T15:07:05.004Z - debug: 4 customers seeded
+2018-12-03T15:07:05.007Z - debug: 5 products seeded
+2018-12-03T15:07:05.016Z - debug: 4 order seeded
+2018-12-03T15:07:05.019Z - debug: 5 orderLineItems seeded
+2018-12-03T15:07:05.019Z - info: END Seeder. Sample data read and verified.
+2018-12-03T15:07:14.010Z - debug: GET /
+2018-12-03T15:07:14.019Z - debug: Request to /
+2018-12-03T15:07:18.744Z - debug: GET /orderLine
+2018-12-03T15:07:22.409Z - debug: GET /orderLine/edit/5
+2018-12-03T15:07:22.411Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:07:22.412Z - info: RETURNING VIEW FOR{"_id":5,"orderID":54532,"lineNumber":2,"productKey":"LED Bulbs","quantity":5}
+2018-12-03T15:07:30.726Z - debug: POST /orderLine/save/%205
+2018-12-03T15:07:30.764Z - info: Handling SAVE request [object Object]
+2018-12-03T15:07:30.764Z - info: Handling SAVING ID=5
+2018-12-03T15:07:30.764Z - info: ORIGINAL VALUES {"_id":5,"orderID":54532,"lineNumber":2,"productKey":"LED Bulbs","quantity":5}
+2018-12-03T15:07:30.764Z - info: UPDATED VALUES: {"orderID":"5453","lineNumber":"2","productKey":"LED Bulbs","quantity":"5"}
+2018-12-03T15:07:30.779Z - debug: GET /orderLine
+2018-12-03T15:07:40.247Z - debug: GET /orderLine/edit/5
+2018-12-03T15:07:40.248Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:07:40.249Z - info: RETURNING VIEW FOR{"_id":5,"orderID":54532,"lineNumber":"2","productKey":"LED Bulbs","quantity":"5"}
+2018-12-03T15:07:45.540Z - debug: POST /orderLine/save/%205
+2018-12-03T15:07:45.541Z - info: Handling SAVE request [object Object]
+2018-12-03T15:07:45.541Z - info: Handling SAVING ID=5
+2018-12-03T15:07:45.541Z - info: ORIGINAL VALUES {"_id":5,"orderID":54532,"lineNumber":"2","productKey":"LED Bulbs","quantity":"5"}
+2018-12-03T15:07:45.541Z - info: UPDATED VALUES: {"orderID":"54532","lineNumber":"4","productKey":"LED Bulbs","quantity":"5"}
+2018-12-03T15:07:45.545Z - debug: GET /orderLine
+2018-12-03T15:07:47.840Z - debug: GET /orderLine/edit/5
+2018-12-03T15:07:47.840Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:07:47.841Z - info: RETURNING VIEW FOR{"_id":5,"orderID":54532,"lineNumber":"4","productKey":"LED Bulbs","quantity":"5"}
+2018-12-03T15:07:51.844Z - debug: POST /orderLine/save/%205
+2018-12-03T15:07:51.847Z - info: Handling SAVE request [object Object]
+2018-12-03T15:07:51.847Z - info: Handling SAVING ID=5
+2018-12-03T15:07:51.848Z - info: ORIGINAL VALUES {"_id":5,"orderID":54532,"lineNumber":"4","productKey":"LED Bulbs","quantity":"5"}
+2018-12-03T15:07:51.848Z - info: UPDATED VALUES: {"orderID":"54532","lineNumber":"4","productKey":"LED Bulbs","quantity":"26"}
+2018-12-03T15:07:51.860Z - debug: GET /orderLine
+2018-12-03T15:08:01.657Z - debug: GET /order
+2018-12-03T15:08:03.086Z - debug: GET /products
+2018-12-03T15:08:04.265Z - debug: GET /customer
+2018-12-03T15:09:35.302Z - debug: GET /
+2018-12-03T15:09:35.304Z - debug: Request to /
+2018-12-03T15:26:16.791Z - info: Environment variables loaded.
+2018-12-03T15:26:16.802Z - debug: START routing
+2018-12-03T15:26:16.842Z - debug: END routing
+2018-12-03T15:26:16.842Z - info: Loaded routing.
+2018-12-03T15:26:16.880Z - info: START seeder.
+2018-12-03T15:26:16.884Z - debug: 4 customers seeded
+2018-12-03T15:26:16.889Z - debug: 5 products seeded
+2018-12-03T15:26:16.892Z - debug: 4 order seeded
+2018-12-03T15:26:16.894Z - debug: 5 orderLineItems seeded
+2018-12-03T15:26:16.894Z - info: END Seeder. Sample data read and verified.
+2018-12-03T15:26:24.793Z - debug: GET /
+2018-12-03T15:26:24.803Z - debug: Request to /
+2018-12-03T15:28:02.778Z - debug: GET /orderLine
+2018-12-03T15:29:17.111Z - debug: GET /orderLine/create
+2018-12-03T15:29:17.113Z - info: Handling GET /create[object Object]
+2018-12-03T15:29:17.120Z - debug: {"quantity":1}
+2018-12-03T15:29:33.736Z - debug: POST /orderLine/save
+2018-12-03T15:29:33.776Z - info: Handling POST [object Object]
+2018-12-03T15:29:33.777Z - debug: {"_id":"6","orderID":"5453","lineNumber":"5","productKey":"12345","quantity":"1"}
+2018-12-03T15:29:33.778Z - info: NEW ID 6
+2018-12-03T15:29:33.783Z - info: SAVING NEW orderLine {"quantity":1,"_id":6,"orderID":5453,"lineNumber":5,"productKey":"12345"}
+2018-12-03T15:29:33.793Z - debug: GET /orderLine
+2018-12-03T15:34:43.688Z - info: Environment variables loaded.
+2018-12-03T15:34:43.698Z - debug: START routing
+2018-12-03T15:34:43.731Z - debug: END routing
+2018-12-03T15:34:43.731Z - info: Loaded routing.
+2018-12-03T15:34:43.767Z - info: START seeder.
+2018-12-03T15:34:43.772Z - debug: 4 customers seeded
+2018-12-03T15:34:43.777Z - debug: 5 products seeded
+2018-12-03T15:34:43.779Z - debug: 4 order seeded
+2018-12-03T15:34:43.781Z - debug: 5 orderLineItems seeded
+2018-12-03T15:34:43.781Z - info: END Seeder. Sample data read and verified.
+2018-12-03T15:34:58.840Z - debug: GET /
+2018-12-03T15:34:58.847Z - debug: Request to /
+2018-12-03T15:45:10.481Z - info: Environment variables loaded.
+2018-12-03T15:45:10.491Z - debug: START routing
+2018-12-03T15:45:10.528Z - debug: END routing
+2018-12-03T15:45:10.528Z - info: Loaded routing.
+2018-12-03T15:45:10.565Z - info: START seeder.
+2018-12-03T15:45:10.567Z - debug: 4 customers seeded
+2018-12-03T15:45:10.569Z - debug: 5 products seeded
+2018-12-03T15:45:10.570Z - debug: 4 order seeded
+2018-12-03T15:45:10.572Z - debug: 5 orderLineItems seeded
+2018-12-03T15:45:10.572Z - info: END Seeder. Sample data read and verified.
+2018-12-03T15:45:21.307Z - debug: GET /
+2018-12-03T15:45:21.314Z - debug: Request to /
+2018-12-03T15:45:24.366Z - debug: GET /orderLine
+2018-12-03T15:45:28.355Z - debug: GET /orderLine/create
+2018-12-03T15:45:28.356Z - info: Handling GET /create[object Object]
+2018-12-03T15:45:28.367Z - debug: {"quantity":1}
+2018-12-03T15:45:32.754Z - debug: GET /orderLine/edit/1
+2018-12-03T15:45:32.756Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:45:36.560Z - debug: GET /orderLine/edit/2
+2018-12-03T15:45:36.570Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:45:36.570Z - info: RETURNING VIEW FOR{"_id":2,"orderID":54532,"lineNumber":2,"productKey":"Bread","quantity":3}
+2018-12-03T15:45:40.452Z - debug: GET /orderLine/edit/3
+2018-12-03T15:45:40.454Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:45:40.455Z - info: RETURNING VIEW FOR{"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+2018-12-03T15:45:44.203Z - debug: GET /orderLine/delete/1
+2018-12-03T15:45:44.206Z - info: Handling GET /delete/:id [object Object]
+2018-12-03T15:45:47.475Z - debug: GET /orderLine/delete/2
+2018-12-03T15:45:47.476Z - info: Handling GET /delete/:id [object Object]
+2018-12-03T15:45:47.476Z - info: RETURNING VIEW FOR {"_id":2,"orderID":54532,"lineNumber":2,"productKey":"Bread","quantity":3}
+2018-12-03T15:45:56.330Z - debug: GET /orderLine
+2018-12-03T15:46:03.034Z - debug: GET /orderLine/edit/0
+2018-12-03T15:46:03.035Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:46:03.035Z - info: RETURNING VIEW FOR{"_id":0,"orderID":54532,"lineNumber":1,"productKey":"Pendrive","quantity":2}
+2018-12-03T15:46:15.042Z - debug: GET /orderLine/create
+2018-12-03T15:46:15.044Z - info: Handling GET /create[object Object]
+2018-12-03T15:46:15.045Z - debug: {"quantity":1}
+2018-12-03T15:46:59.791Z - info: Environment variables loaded.
+2018-12-03T15:46:59.806Z - debug: START routing
+2018-12-03T15:46:59.857Z - debug: END routing
+2018-12-03T15:46:59.857Z - info: Loaded routing.
+2018-12-03T15:46:59.906Z - info: START seeder.
+2018-12-03T15:46:59.911Z - debug: 4 customers seeded
+2018-12-03T15:46:59.913Z - debug: 5 products seeded
+2018-12-03T15:46:59.915Z - debug: 4 order seeded
+2018-12-03T15:46:59.916Z - debug: 5 orderLineItems seeded
+2018-12-03T15:46:59.916Z - info: END Seeder. Sample data read and verified.
+2018-12-03T15:47:44.851Z - info: Environment variables loaded.
+2018-12-03T15:47:44.861Z - debug: START routing
+2018-12-03T15:47:44.890Z - debug: END routing
+2018-12-03T15:47:44.890Z - info: Loaded routing.
+2018-12-03T15:47:44.924Z - info: START seeder.
+2018-12-03T15:47:44.927Z - debug: 4 customers seeded
+2018-12-03T15:47:44.930Z - debug: 5 products seeded
+2018-12-03T15:47:44.931Z - debug: 4 order seeded
+2018-12-03T15:47:44.933Z - debug: 5 orderLineItems seeded
+2018-12-03T15:47:44.933Z - info: END Seeder. Sample data read and verified.
+2018-12-03T15:47:54.692Z - debug: GET /
+2018-12-03T15:47:54.700Z - debug: Request to /
+2018-12-03T15:48:01.798Z - debug: GET /orderLine/delete/1
+2018-12-03T15:48:01.800Z - info: Handling GET /delete/:id [object Object]
+2018-12-03T15:48:01.802Z - info: RETURNING VIEW FOR {"_id":1,"orderID":54532,"lineNumber":1,"productKey":"Pendrive","quantity":2}
+2018-12-03T15:48:06.640Z - debug: GET /orderLine/details/1
+2018-12-03T15:48:06.644Z - info: Handling GET /details/:id [object Object]
+2018-12-03T15:48:06.645Z - info: RETURNING VIEW FOR {"_id":1,"orderID":54532,"lineNumber":1,"productKey":"Pendrive","quantity":2}
+2018-12-03T15:48:16.505Z - debug: GET /orderLine/findall
+2018-12-03T15:48:22.274Z - debug: GET /orderLine/findone/1
+2018-12-03T15:48:26.344Z - debug: GET /orderLine/findone/2
+2018-12-03T15:48:32.196Z - debug: GET /orderLine/findone/3
+2018-12-03T15:49:14.403Z - debug: GET /orderLine
+2018-12-03T15:49:18.887Z - debug: GET /orderLine
+2018-12-03T15:49:20.198Z - debug: GET /
+2018-12-03T15:49:20.203Z - debug: Request to /
+2018-12-03T15:53:01.493Z - info: Environment variables loaded.
+2018-12-03T15:53:01.504Z - debug: START routing
+2018-12-03T15:53:01.533Z - debug: END routing
+2018-12-03T15:53:01.533Z - info: Loaded routing.
+2018-12-03T15:53:01.573Z - info: START seeder.
+2018-12-03T15:53:01.576Z - debug: 4 customers seeded
+2018-12-03T15:53:01.578Z - debug: 5 products seeded
+2018-12-03T15:53:01.579Z - debug: 4 order seeded
+2018-12-03T15:53:01.580Z - debug: 5 orderLineItems seeded
+2018-12-03T15:53:01.580Z - info: END Seeder. Sample data read and verified.
+2018-12-03T15:53:09.464Z - debug: GET /
+2018-12-03T15:53:09.471Z - debug: Request to /
+2018-12-03T15:53:14.276Z - debug: GET /orderLine/edit/3
+2018-12-03T15:53:14.281Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:53:14.285Z - info: RETURNING VIEW FOR{"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+2018-12-03T15:53:21.653Z - debug: GET /orderLine/edit/3
+2018-12-03T15:53:21.655Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:53:21.656Z - info: RETURNING VIEW FOR{"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+2018-12-03T15:53:26.293Z - debug: GET /orderLine/edit/3
+2018-12-03T15:53:26.294Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:53:26.295Z - info: RETURNING VIEW FOR{"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+2018-12-03T15:53:30.254Z - debug: GET /orderLine/edit/3
+2018-12-03T15:53:30.255Z - info: Handling GET /edit/:id [object Object]
+2018-12-03T15:53:30.255Z - info: RETURNING VIEW FOR{"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+2018-12-03T15:53:35.232Z - debug: GET /orderLine/delete/3
+2018-12-03T15:53:35.235Z - info: Handling GET /delete/:id [object Object]
+2018-12-03T15:53:35.235Z - info: RETURNING VIEW FOR {"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+2018-12-03T15:53:39.370Z - debug: GET /orderLine
+2018-12-03T15:53:46.991Z - debug: GET /orderLine/details/3
+2018-12-03T15:53:46.996Z - info: Handling GET /details/:id [object Object]
+2018-12-03T15:53:46.996Z - info: RETURNING VIEW FOR {"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+2018-12-03T15:53:58.160Z - debug: GET /orderLine/findone/3
+2018-12-03T15:54:28.441Z - debug: GET /orderLine/findall
+2018-12-03T15:54:39.657Z - debug: GET /orderLine/findone/3
+2018-12-03T15:55:02.512Z - debug: GET /orderLine/details/3
+2018-12-03T15:55:02.515Z - info: Handling GET /details/:id [object Object]
+2018-12-03T15:55:02.515Z - info: RETURNING VIEW FOR {"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+2018-12-03T15:55:08.282Z - debug: GET /orderLine/delete/3
+2018-12-03T15:55:08.285Z - info: Handling GET /delete/:id [object Object]
+2018-12-03T15:55:08.285Z - info: RETURNING VIEW FOR {"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+2018-12-03T15:55:13.354Z - debug: GET /orderLine/details/3
+2018-12-03T15:55:13.355Z - info: Handling GET /details/:id [object Object]
+2018-12-03T15:55:13.356Z - info: RETURNING VIEW FOR {"_id":3,"orderID":54532,"lineNumber":2,"productKey":"Dress","quantity":1}
+>>>>>>> 6ff67038d8b403569e053d05b37e864c4225904d
+2018-12-03T19:12:35.787Z - info: Environment variables loaded.
+2018-12-03T19:12:35.808Z - debug: START routing
+2018-12-03T19:12:35.861Z - debug: END routing
+2018-12-03T19:12:35.861Z - info: Loaded routing.
+2018-12-03T19:12:35.901Z - info: START seeder.
+2018-12-03T19:12:35.905Z - debug: 4 customers seeded
+2018-12-03T19:12:35.907Z - debug: 5 products seeded
+2018-12-03T19:12:35.908Z - debug: 4 order seeded
+2018-12-03T19:12:35.910Z - debug: 5 orderLineItems seeded
+2018-12-03T19:12:35.910Z - info: END Seeder. Sample data read and verified.
+2018-12-03T19:12:45.438Z - debug: GET /
+2018-12-03T19:12:45.445Z - debug: Request to /
+2018-12-03T19:12:48.287Z - debug: GET /products
+2018-12-03T19:12:49.782Z - debug: GET /order
+2018-12-03T19:12:50.908Z - debug: GET /orderLine
+2018-12-03T23:34:23.349Z - info: Environment variables loaded.
+2018-12-03T23:34:23.362Z - debug: START routing
+2018-12-03T23:34:23.406Z - debug: END routing
+2018-12-03T23:34:23.406Z - info: Loaded routing.
+2018-12-03T23:34:23.448Z - info: START seeder.
+2018-12-03T23:34:23.451Z - debug: 4 customers seeded
+2018-12-03T23:34:23.454Z - debug: 5 products seeded
+2018-12-03T23:34:23.456Z - debug: 4 order seeded
+2018-12-03T23:34:23.458Z - debug: 5 orderLineItems seeded
+2018-12-03T23:34:23.458Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:34:55.982Z - info: Environment variables loaded.
+2018-12-03T23:34:55.996Z - debug: START routing
+2018-12-03T23:34:56.048Z - debug: END routing
+2018-12-03T23:34:56.048Z - info: Loaded routing.
+2018-12-03T23:34:56.084Z - info: START seeder.
+2018-12-03T23:34:56.088Z - debug: 4 customers seeded
+2018-12-03T23:34:56.090Z - debug: 5 products seeded
+2018-12-03T23:34:56.097Z - debug: 4 order seeded
+2018-12-03T23:34:56.099Z - debug: 5 orderLineItems seeded
+2018-12-03T23:34:56.099Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:35:04.670Z - debug: GET /
+2018-12-03T23:35:04.679Z - debug: Request to /
+2018-12-03T23:35:19.803Z - debug: GET /order
+2018-12-03T23:35:29.137Z - debug: GET /orderLine
+2018-12-03T23:36:09.140Z - debug: GET /
+2018-12-03T23:36:09.141Z - debug: Request to /
+2018-12-03T23:36:11.210Z - debug: GET /customer
+2018-12-03T23:36:14.673Z - debug: GET /
+2018-12-03T23:36:14.676Z - debug: Request to /
+2018-12-03T23:43:42.915Z - info: Environment variables loaded.
+2018-12-03T23:43:42.926Z - debug: START routing
+2018-12-03T23:43:42.961Z - debug: END routing
+2018-12-03T23:43:42.961Z - info: Loaded routing.
+2018-12-03T23:43:43.003Z - info: START seeder.
+2018-12-03T23:43:43.007Z - debug: 4 customers seeded
+2018-12-03T23:43:43.008Z - debug: 5 products seeded
+2018-12-03T23:43:43.010Z - debug: 4 order seeded
+2018-12-03T23:43:43.014Z - debug: 5 orderLineItems seeded
+2018-12-03T23:43:43.014Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:49:25.824Z - info: Environment variables loaded.
+2018-12-03T23:49:25.834Z - debug: START routing
+2018-12-03T23:49:25.871Z - debug: END routing
+2018-12-03T23:49:25.871Z - info: Loaded routing.
+2018-12-03T23:49:25.906Z - info: START seeder.
+2018-12-03T23:49:25.909Z - debug: 4 customers seeded
+2018-12-03T23:49:25.911Z - debug: 5 products seeded
+2018-12-03T23:49:25.914Z - debug: 4 order seeded
+2018-12-03T23:49:25.916Z - debug: 5 orderLineItems seeded
+2018-12-03T23:49:25.916Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:49:38.704Z - info: Environment variables loaded.
+2018-12-03T23:49:38.715Z - debug: START routing
+2018-12-03T23:49:38.754Z - debug: END routing
+2018-12-03T23:49:38.754Z - info: Loaded routing.
+2018-12-03T23:49:38.788Z - info: START seeder.
+2018-12-03T23:49:38.791Z - debug: 4 customers seeded
+2018-12-03T23:49:38.794Z - debug: 5 products seeded
+2018-12-03T23:49:38.796Z - debug: 4 order seeded
+2018-12-03T23:49:38.798Z - debug: 5 orderLineItems seeded
+2018-12-03T23:49:38.798Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:49:46.657Z - debug: GET /
+2018-12-03T23:49:46.667Z - debug: Request to /
+2018-12-03T23:53:09.915Z - debug: GET /orderLine/findall
+2018-12-03T23:53:17.021Z - debug: GET /orderLine/findone/3
+2018-12-03T23:53:24.050Z - debug: GET /orderLine/findone/3
+2018-12-04T00:38:31.878Z - info: Environment variables loaded.
+2018-12-04T00:38:31.903Z - debug: START routing
+2018-12-04T00:38:31.951Z - debug: END routing
+2018-12-04T00:38:31.951Z - info: Loaded routing.
+2018-12-04T00:38:32.000Z - info: START seeder.
+2018-12-04T00:38:32.006Z - debug: 4 customers seeded
+2018-12-04T00:38:32.010Z - debug: 5 products seeded
+2018-12-04T00:38:32.014Z - debug: 4 order seeded
+2018-12-04T00:38:32.017Z - debug: 5 orderLineItems seeded
+2018-12-04T00:38:32.017Z - info: END Seeder. Sample data read and verified.
+2018-12-04T00:38:41.117Z - debug: GET /
+2018-12-04T00:38:41.125Z - debug: Request to /
+2018-12-04T00:38:43.485Z - debug: GET /orderLine/create
+2018-12-04T00:38:43.488Z - info: Handling GET /create[object Object]
+2018-12-04T00:38:43.493Z - debug: {"quantity":1}
+2018-12-04T00:39:08.143Z - debug: GET /orderLine
+2018-12-04T00:39:09.189Z - debug: GET /order
+2018-12-04T00:39:10.038Z - debug: GET /products
+2018-12-04T00:39:10.790Z - debug: GET /customer
+2018-12-04T00:39:11.413Z - debug: GET /
+2018-12-04T00:39:11.422Z - debug: Request to /
